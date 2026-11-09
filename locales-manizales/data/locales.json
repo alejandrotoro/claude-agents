@@ -1,0 +1,1116 @@
+{
+ "actualizado": "2026-11-09T14:47:55-05:00",
+ "ultima_ejecucion": "2026-11-09",
+ "locales": [
+  {
+   "id": "centro-fundadores-69m2-194055768",
+   "zona": "Centro",
+   "barrio": "Fundadores",
+   "direccion": "Fundadores, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Fundadores%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 69,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 1800000,
+   "canon_max": 1800000,
+   "administracion": null,
+   "instalaciones": "Salón principal; pisos en cerámica; iluminación natural y LED; sobre avenida pri",
+   "fit": "alto",
+   "destacado": true,
+   "destacado_por": "Frente al Parque de Caldas, vitrina sobre la avenida y canon muy bajo para la zona (2 anunciantes, mismo precio).",
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 1800000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-fundadores-manizales/194145737",
+     "publicado": null,
+     "visto": "2026-11-09"
+    },
+    {
+     "anunciante": "Administra Bienes Raíces",
+     "portal": "Finca Raíz",
+     "canon": 1800000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/194055768",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1800000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-22m2-194145749",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 22,
+   "piso": "1",
+   "frente_calle": true,
+   "canon_min": 3781513,
+   "canon_max": 4500000,
+   "administracion": null,
+   "instalaciones": "Primer piso; puerta vitrina; cerámica; avenida principal",
+   "fit": "alto",
+   "destacado": true,
+   "destacado_por": "Primer piso sobre avenida principal del Centro con puerta vitrina; pequeño pero ideal para mostrador (Metrocuadrado lo publica con IVA: $4.500.000).",
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 3781513,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/194145749",
+     "publicado": null,
+     "visto": "2026-11-09"
+    },
+    {
+     "anunciante": "Millán & Asociados",
+     "portal": "Metrocuadrado",
+     "canon": 4500000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-manizales-centro-1-banos/778-M6317570",
+     "publicado": null,
+     "visto": "2026-11-08"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 3781513,
+     "anunciante": "No indica"
+    },
+    {
+     "fecha": "2026-11-08",
+     "canon": 4500000,
+     "anunciante": "Millán & Asociados"
+    }
+   ]
+  },
+  {
+   "id": "cable-milan-palermo-palermo-90m2-194338633",
+   "zona": "Cable / Milán / Palermo",
+   "barrio": "Palermo",
+   "direccion": "Palermo, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Palermo%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 90,
+   "piso": "1",
+   "frente_calle": true,
+   "canon_min": 4500000,
+   "canon_max": 4500000,
+   "administracion": null,
+   "instalaciones": "un ambiente, buena vitrina, iluminación natural, cerca de Centro Comercial Sanca",
+   "fit": "alto",
+   "destacado": true,
+   "destacado_por": "Primer piso de 1, buena vitrina, a pasos del C.C. Sancancio y cerca del punto actual.",
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 4500000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-palermo-manizales/194338633",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-08",
+     "canon": 4500000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "cable-milan-palermo-palermo-85m2-193995699",
+   "zona": "Cable / Milán / Palermo",
+   "barrio": "Palermo",
+   "direccion": "Palermo, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Palermo%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 85,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 5100000,
+   "canon_max": 5100000,
+   "administracion": null,
+   "instalaciones": "3 espacios independientes, cocina con gas natural, pisos en cerámica, fachada en",
+   "fit": "alto",
+   "destacado": true,
+   "destacado_por": "Palermo con fachada en vidrio y cocina con gas natural, apto restaurante: sirve para hornear y vender en el corredor prioritario.",
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "Capital Inmobiliario",
+     "portal": "Finca Raíz",
+     "canon": 5100000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-palermo-manizales/193995699",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-08",
+     "canon": 5100000,
+     "anunciante": "Capital Inmobiliario"
+    }
+   ]
+  },
+  {
+   "id": "av-santander-avenida-santander-29m2-194470352",
+   "zona": "Av. Santander",
+   "barrio": "Avenida Santander (El Cable)",
+   "direccion": "Avenida Santander, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Avenida%20Santander%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 29,
+   "piso": "1",
+   "frente_calle": true,
+   "canon_min": 2300000,
+   "canon_max": 2300000,
+   "administracion": 430000,
+   "instalaciones": "Acabados modernos; portería 24 horas; cerca de la zona gourmet de Milán",
+   "fit": "alto",
+   "destacado": true,
+   "destacado_por": "Primer piso sobre Av. Santander cerca de la zona gourmet de Milán; tamaño justo para café de mostrador (2 inmobiliarias, mismo precio).",
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "Hazul Inmobiliaria",
+     "portal": "Finca Raíz",
+     "canon": 2300000,
+     "administracion": 430000,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-avenida-santander-manizales/194471213",
+     "publicado": null,
+     "visto": "2026-11-09"
+    },
+    {
+     "anunciante": "Vista Inmobiliaria",
+     "portal": "Finca Raíz",
+     "canon": 2300000,
+     "administracion": 430000,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-avenida-santander-manizales/194470352",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-08",
+     "canon": 2300000,
+     "anunciante": "Hazul Inmobiliaria"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-28m2-193543854",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 28,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 1600000,
+   "canon_max": 1600000,
+   "administracion": null,
+   "instalaciones": "piso cerámica, baño privado, mezanine, vitrinas internas y externas, vigilancia ",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 1600000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/193543854",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1600000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-fundadores-43m2-194145741",
+   "zona": "Centro",
+   "barrio": "Fundadores",
+   "direccion": "Fundadores, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Fundadores%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 43,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 1600000,
+   "canon_max": 1600000,
+   "administracion": null,
+   "instalaciones": "Recién remodelado, pisos en cerámica, fachada en vitrina, iluminación LED",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 1600000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-fundadores-manizales/194145741",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1600000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-32m2-194013088",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 32,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 1620000,
+   "canon_max": 1620000,
+   "administracion": 380000,
+   "instalaciones": "LED, vitrina en vidrio, poceta, cerámica, portería 24 h, ascensor",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 1620000,
+     "administracion": 380000,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/194013088",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1620000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-50m2-193311273",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 50,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 1660000,
+   "canon_max": 1660000,
+   "administracion": 440000,
+   "instalaciones": "oficina o local, baño privado, vitrinas internas y externas, pisos en cerámica, ",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 1660000,
+     "administracion": 440000,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/193311273",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1660000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-55m2-191934989",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 55,
+   "piso": "1",
+   "frente_calle": null,
+   "canon_min": 2550000,
+   "canon_max": 2550000,
+   "administracion": null,
+   "instalaciones": "2 ambientes, mezzanine, división en acrílico, cuarto útil o depósito",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "Villegas Ocampo propiedad raíz",
+     "portal": "Finca Raíz",
+     "canon": 2550000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/191934989",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-08",
+     "canon": 2550000,
+     "anunciante": "Villegas Ocampo propiedad raíz"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-30m2-192326547",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 30,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 2600000,
+   "canon_max": 2600000,
+   "administracion": null,
+   "instalaciones": "1 ambiente, sobre vía principal, en edificio con seguridad privada",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 2600000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/192326547",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 2600000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-95m2-192812905",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 95,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 3500000,
+   "canon_max": 4165000,
+   "administracion": 2063000,
+   "instalaciones": "Un solo ambiente; vista a la calle; poceta y cocina sencilla; pisos en cerámica",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "Visión & Asesoría Inmobiliaria",
+     "portal": "Finca Raíz",
+     "canon": 3500000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/192812905",
+     "publicado": null,
+     "visto": "2026-11-09"
+    },
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 3500000,
+     "administracion": 2063000,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/193309355",
+     "publicado": null,
+     "visto": "2026-11-09"
+    },
+    {
+     "anunciante": "Millán & Asociados",
+     "portal": "Metrocuadrado",
+     "canon": 4165000,
+     "administracion": 2063000,
+     "telefono": null,
+     "url": "https://www.metrocuadrado.com/inmueble/arriendo-local-comercial-manizales-centro-1-banos/778-M5460583",
+     "publicado": null,
+     "visto": "2026-11-08"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 3500000,
+     "anunciante": "Visión & Asesoría Inmobiliaria"
+    },
+    {
+     "fecha": "2026-11-08",
+     "canon": 4165000,
+     "anunciante": "Millán & Asociados"
+    }
+   ]
+  },
+  {
+   "id": "cable-milan-palermo-cable-27m2-193309091",
+   "zona": "Cable / Milán / Palermo",
+   "barrio": "Cable",
+   "direccion": "Cable, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Cable%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 27,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 2782000,
+   "canon_max": 2782000,
+   "administracion": 528580,
+   "instalaciones": "Puerta vitrina de doble altura; pisos en porcelanato; iluminación natural y LED;",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 2782000,
+     "administracion": 528580,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-cable-manizales/193309091",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-08",
+     "canon": 2782000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "cable-milan-palermo-palermo-40m2-194058010",
+   "zona": "Cable / Milán / Palermo",
+   "barrio": "Palermo",
+   "direccion": "Palermo, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Palermo%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 40,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 2800000,
+   "canon_max": 2800000,
+   "administracion": null,
+   "instalaciones": "Ventilado e iluminado naturalmente; puerta tipo vitrina; pisos en porcelanato; i",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 2800000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-palermo-manizales/194058010",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 2800000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "cable-milan-palermo-sancancio-43m2-193463891",
+   "zona": "Cable / Milán / Palermo",
+   "barrio": "Sancancio (Palermo según descripción)",
+   "direccion": "Sancancio, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Sancancio%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 43,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 3500000,
+   "canon_max": 4753595,
+   "administracion": 1253595,
+   "instalaciones": "vitrina, pisos en cerámica, doble altura, vigilancia 24 horas, ascensores, parqu",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 3500000,
+     "administracion": 1253925,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-sancancio-manizales/193491167",
+     "publicado": null,
+     "visto": "2026-11-09"
+    },
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 4753595,
+     "administracion": 1253595,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-palermo-manizales/193463891",
+     "publicado": null,
+     "visto": "2026-11-09"
+    },
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 3500000,
+     "administracion": 1254000,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-palermo-manizales/193558206",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 3500000,
+     "anunciante": "No indica"
+    },
+    {
+     "fecha": "2026-11-09",
+     "canon": 4753595,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "cable-milan-palermo-palermo-75m2-193920848",
+   "zona": "Cable / Milán / Palermo",
+   "barrio": "Palermo",
+   "direccion": "Palermo, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Palermo%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 75,
+   "piso": null,
+   "frente_calle": true,
+   "canon_min": 4200000,
+   "canon_max": 4200000,
+   "administracion": null,
+   "instalaciones": "Pisos en madera flotante, vitrina en vidrio templado, poceta, agua y energía inc",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 4200000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-palermo-manizales/193920848",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-08",
+     "canon": 4200000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "cable-milan-palermo-cable-131m2-194194408",
+   "zona": "Cable / Milán / Palermo",
+   "barrio": "Cable",
+   "direccion": "Cable, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Cable%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 131,
+   "piso": "1",
+   "frente_calle": true,
+   "canon_min": 8500000,
+   "canon_max": 8500000,
+   "administracion": null,
+   "instalaciones": "3 ambientes, primer nivel ~35 m² con acceso a calle, subnivel ~35 m² con cocinet",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 8500000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-cable-manizales/194194408",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-08",
+     "canon": 8500000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "la-estrella-estrella-85m2-193306753",
+   "zona": "La Estrella",
+   "barrio": "Estrella",
+   "direccion": "Estrella, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Estrella%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 85,
+   "piso": "1",
+   "frente_calle": true,
+   "canon_min": 3800000,
+   "canon_max": 3800000,
+   "administracion": null,
+   "instalaciones": "Primer piso, puerta vitrina y reja, pisos en cerámica, iluminación LED, cuarto d",
+   "fit": "alto",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-08",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 3800000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-estrella-manizales/193306753",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-08",
+     "canon": 3800000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-24m2-193690898",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 24,
+   "piso": null,
+   "frente_calle": null,
+   "canon_min": 890000,
+   "canon_max": 890000,
+   "administracion": 60000,
+   "instalaciones": "Pisos en cerámica; iluminación natural; cerca de iglesias, supermercados y trans",
+   "fit": "medio",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 890000,
+     "administracion": 60000,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/193690898",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 890000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-20m2-194385715",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 20,
+   "piso": null,
+   "frente_calle": null,
+   "canon_min": 1000000,
+   "canon_max": 1000000,
+   "administracion": null,
+   "instalaciones": "carrera 25, baño auxiliar, pisos cerámica, vigilancia diurna, administración inc",
+   "fit": "medio",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "AF Capital Inmobiliario",
+     "portal": "Finca Raíz",
+     "canon": 1000000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/194385715",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1000000,
+     "anunciante": "AF Capital Inmobiliario"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-32m2-194456627",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 32,
+   "piso": null,
+   "frente_calle": null,
+   "canon_min": 1200000,
+   "canon_max": 1200000,
+   "administracion": null,
+   "instalaciones": "puerta persiana metálica, iluminación LED, cuarto útil, pisos en cerámica, calle",
+   "fit": "medio",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 1200000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/194456627",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1200000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-26m2-193689327",
+   "zona": "Centro",
+   "barrio": "El centro",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 26,
+   "piso": null,
+   "frente_calle": null,
+   "canon_min": 1500000,
+   "canon_max": 1500000,
+   "administracion": null,
+   "instalaciones": "pisos en cerámica, iluminación natural",
+   "fit": "medio",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 1500000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/193689327",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1500000,
+     "anunciante": "No indica"
+    }
+   ]
+  },
+  {
+   "id": "centro-los-agustinos-29m2-3682187",
+   "zona": "Centro",
+   "barrio": "Los Agustinos (sector Chipre/Bellas Artes)",
+   "direccion": "Los Agustinos, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Los%20Agustinos%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 29,
+   "piso": null,
+   "frente_calle": null,
+   "canon_min": 1500000,
+   "canon_max": 1500000,
+   "administracion": null,
+   "instalaciones": "sin administración; remodelado; apto panadería/tienda; cod 8877-9150449",
+   "fit": "medio",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "Inmobiliaria Lucia Prada",
+     "portal": "Ciencuadras",
+     "canon": 1500000,
+     "administracion": 0,
+     "telefono": "3206422861",
+     "url": "https://www.ciencuadras.com/inmueble/local-en-arriendo-en-los-agustinos-manizales-3682187",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1500000,
+     "anunciante": "Inmobiliaria Lucia Prada"
+    }
+   ]
+  },
+  {
+   "id": "centro-el-centro-22m2-194135898",
+   "zona": "Centro",
+   "barrio": "El centro (cerca Parque Caldas)",
+   "direccion": "El centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=El%20centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 22,
+   "piso": null,
+   "frente_calle": null,
+   "canon_min": 1800000,
+   "canon_max": 1800000,
+   "administracion": null,
+   "instalaciones": "Baño auxiliar; pisos en cerámica; agua compartida; valor más IVA; alto flujo pea",
+   "fit": "medio",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "Capital Inmobiliario",
+     "portal": "Finca Raíz",
+     "canon": 1800000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-el-centro-manizales/194135898",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 1800000,
+     "anunciante": "Capital Inmobiliario"
+    }
+   ]
+  },
+  {
+   "id": "centro-100m2-194518343",
+   "zona": "Centro",
+   "barrio": "Centro",
+   "direccion": "Centro, Manizales, Caldas",
+   "verificacion": "Aproximada",
+   "verificacion_nota": "Anuncio sin dirección exacta; ubicación por barrio/sector.",
+   "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro%2C%20Manizales%2C%20Caldas%2C%20Colombia",
+   "m2": 100,
+   "piso": null,
+   "frente_calle": null,
+   "canon_min": 2000000,
+   "canon_max": 2000000,
+   "administracion": null,
+   "instalaciones": "Código 14481, descrito como bodega, pisos en concreto, mezzanine, cerca de tiend",
+   "fit": "medio",
+   "destacado": false,
+   "destacado_por": null,
+   "primera_vez": "2026-11-09",
+   "ultima_vez": "2026-11-09",
+   "activo": true,
+   "ofertas": [
+    {
+     "anunciante": "No indica",
+     "portal": "Finca Raíz",
+     "canon": 2000000,
+     "administracion": null,
+     "telefono": null,
+     "url": "https://www.fincaraiz.com.co/local-en-arriendo-en-manizales/194518343",
+     "publicado": null,
+     "visto": "2026-11-09"
+    }
+   ],
+   "historial_precio": [
+    {
+     "fecha": "2026-11-09",
+     "canon": 2000000,
+     "anunciante": "No indica"
+    }
+   ]
+  }
+ ]
+}
