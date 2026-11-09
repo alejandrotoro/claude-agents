@@ -21,3 +21,6 @@ Alejo puede corregir el agente respondiendo al correo diario o editando este arc
 
 ## Aprendizajes del agente
 (fuentes que funcionan o bloquean, trucos de búsqueda, formatos de dirección, etc.)
+- 2026-11-08: Finca Raíz es la fuente principal. Listados útiles: /arriendo/locales/cable/zona-2-sur/manizales (y /paginaN, ~109 resultados, cubre todo el corredor sur) y /arriendo/locales/palermo/zona-2-sur/manizales/paginaN. /arriendo/locales/centro/manizales NO sirve (redirige a Barranquilla). Un anuncio retirado de Finca Raíz redirige a una búsqueda nacional; en Ciencuadras dice "ya no está disponible". Metrocuadrado y Ciencuadras funcionan; Properati/MercadoLibre/OLX/Facebook no salen en buscador.
+- 2026-11-08: Casi ningún anuncio publica dirección exacta (solo barrio/vía) → casi todo queda "Aproximada". Vista, Hazul y Visión & Asesoría publican el mismo local con IDs consecutivos; Vista a veces duplica su propio anuncio.
+- 2026-11-08: Hazul a veces publica como "canon" el total canon + IVA 19% + administración (ej. Multicentro Estrella 186 m²: $16.454.000 vs $12.000.000 de Villegas Ocampo). Antes de marcar diferencia de precio, revisar si es IVA/admin.
