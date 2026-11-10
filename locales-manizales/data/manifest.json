@@ -1,6 +1,8 @@
 {
- "actualizado": "2026-11-09T14:47:55-05:00",
- "ultima_ejecucion": "2026-11-09",
+ "actualizado": "2026-11-10T09:15:00-05:00",
+ "ultima_ejecucion": "2026-11-10",
  "base": "317 locales al 2026-11-09, publicados con la página (seed.json)",
- "archivos": []
+ "archivos": [
+  "dias/2026-11-10.json"
+ ]
 }

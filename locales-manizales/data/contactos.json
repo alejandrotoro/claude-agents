@@ -1,1 +1,54 @@
-{}
+{
+ "centro-el-centro-55m2-191934989": [
+  {
+   "fecha": "2026-11-10",
+   "canal": "email",
+   "anunciante": "Villegas Ocampo propiedad raíz",
+   "destino": "comercial@vopropiedadraiz.co",
+   "asunto": "Interés en local en arriendo – El Centro, 55 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": "+57 319 235 4151",
+   "nota": "Envío bloqueado por el control de permisos de la sesión automática; no salió. Se reintentará."
+  }
+ ],
+ "centro-el-centro-20m2-194385715": [
+  {
+   "fecha": "2026-11-10",
+   "canal": "email",
+   "anunciante": "AF Capital Inmobiliario",
+   "destino": "capitalinmobiliariomanizales@gmail.com",
+   "asunto": "Interés en local en arriendo – El Centro, 20 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": "318 658 5089",
+   "nota": "Envío bloqueado por el control de permisos de la sesión automática; no salió. Se reintentará."
+  }
+ ],
+ "centro-el-centro-22m2-194135898": [
+  {
+   "fecha": "2026-11-10",
+   "canal": "email",
+   "anunciante": "AF Capital Inmobiliario",
+   "destino": "capitalinmobiliariomanizales@gmail.com",
+   "asunto": "Interés en local en arriendo – El Centro (Fundadores), 22 m²",
+   "thread_id": "1a1c633e9ee0f376",
+   "estado": "enviado",
+   "whatsapp": "318 658 5089",
+   "nota": "Enviado con la plantilla aprobada."
+  }
+ ],
+ "belen-22m2-194268150": [
+  {
+   "fecha": "2026-11-10",
+   "canal": "email",
+   "anunciante": "Organización Brando y Cía SAS",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Sin correo ni teléfono en Ciencuadras (solo oficina Cra 23c #62-72 of. 1003) ni en buscador."
+  }
+ ]
+}
