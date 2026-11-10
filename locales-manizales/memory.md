@@ -7,13 +7,14 @@ Alejo puede corregir el agente respondiendo al correo diario, con notas en la p�
 ## Decisiones (de Alejo)
 - 2026-11-08: Objetivo: arrendar un local en Manizales para un segundo punto de dieta. (panadería de amasijos + café de mostrador).
 - 2026-11-08: Zonas: toda Manizales, con prioridad en Centro (le gustó un local en Cra 22 con Calle 22, edificio Banco de Bogotá) y en el corredor Cable / Milán / Palermo / Av. Santander.
-- 2026-11-08: Sin filtro de canon ni de tamaño: traer todo y ordenarlo.
+- 2026-11-08: Sin filtro de canon: traer todo y ordenarlo.
+- 2026-11-09: TAMAÑO MÁXIMO 70 m² (reemplaza "sin filtro de tamaño"). No registres como nuevos ni destaques locales de más de 70 m². Si el anuncio no dice m², inclúyelo con m2 null. Si ya está en la base y mide más de 70, ignóralo (no lo pongas en "vistos" ni "cambios") salvo que esté marcado en estado.json.
 - 2026-11-08: Facebook Marketplace: solo lo público que aparezca en buscadores; sin iniciar sesión.
 - 2026-11-08: Enviar solo locales que no se hayan enviado antes.
 - 2026-11-08: Detectar si el mismo local lo ofrecen varias inmobiliarias y comparar precios entre ellas.
 - 2026-11-08: Verificar la dirección de cada local y poner un enlace a Google Maps.
 - 2026-11-09: El reporte completo vive en la página (https://claude.ai/artifact/PvV3LaRSGhfacviVvuWqg4); el correo diario es corto, con botón a la página y destacados.
-- 2026-11-09: Contacto con inmobiliarias: cuando Alejo marca un local como "contactar" en la página, el agente ENVÍA AUTOMÁTICAMENTE (en la corrida de las 8:40) un correo desde su Gmail a la inmobiliaria con la plantilla aprobada de abajo. WhatsApp no es automático: la página muestra un botón con el mensaje listo y Alejo lo envía.
+- 2026-11-09: Contacto con inmobiliarias: cuando Alejo marca un local como "contactar" en la página, el agente ENVÍA AUTOMÁTICAMENTE (en la corrida de las 8:40) un correo desde su Gmail a la inmobiliaria con la plantilla aprobada de abajo. Lo que Alejo marca a mano manda, aunque pase de 70 m². WhatsApp no es automático: la página muestra un botón con el mensaje listo y Alejo lo envía.
 - 2026-11-09: Número de contacto para las inmobiliarias: WhatsApp 310 597 9727, SOLO WhatsApp (no llamadas). No usar el 315 050 7179 en mensajes a inmobiliarias.
 - 2026-11-09: Plantilla de correo aprobada por Alejo (no cambiarla sin que él lo pida):
   Asunto: Interés en local en arriendo – {dirección/barrio}, {m2} m²
@@ -49,5 +50,5 @@ Alejo puede corregir el agente respondiendo al correo diario, con notas en la p�
 - 2026-11-08: El local de Milán a $5.300.000 (82–85 m²) aparece publicado por Millán & Asociados, AF Capital, Vista y Hazul; el título y la descripción a veces difieren en m² y barrio.
 - 2026-11-09: Listado del Centro en Finca Raíz que SÍ funciona: /arriendo/locales/el-centro/zona-2-sur/manizales (+ /pagina2..5, ~100 anuncios; la paginación se solapa). También /arriendo/locales/versalles/zona-2-sur/manizales (2 págs.) y /arriendo/locales/manizales/caldas (~400, 20 págs.). El listado de Metrocuadrado no carga sin navegador; los anuncios de Ciencuadras/Finca Raíz que salen en el buscador suelen estar retirados → mejor ir por listados.
 - 2026-11-09: Millán & Asociados publica en Metrocuadrado con IVA incluido y el mismo local aparece en Finca Raíz sin IVA (factor exacto 1,19, misma admin): no es diferencia de precio real.
-- 2026-11-09: Método eficiente: WebFetch de /arriendo/locales/manizales/caldas/pagina1..20 (21 tarjetas/pág., 416 resultados, ~334 URLs únicas por solapes) pidiendo una línea por tarjeta en formato pipe; Ciencuadras por barrio (Chipre, Alta Suiza, Belén, San José, San Antonio). Excluir Villamaría (otro municipio) y URLs oficina-en-arriendo.
+- 2026-11-09: Método eficiente: WebFetch de /arriendo/locales/manizales/caldas/pagina1..20 (21 tarjetas/pág., 416 resultados, ~334 URLs únicas por solapes) pidiendo una línea por tarjeta en formato pipe; Ciencuadras por barrio (Chipre, Alta Suiza, Belén, San José, San Antonio). Excluir Villamaría (otro municipio) y URLs oficina-en-arriendo. Finca Raíz permite filtrar por área en la URL de búsqueda: úsalo para traer solo hasta 70 m² si funciona.
 - 2026-11-09: Formato de datos: la base de 317 locales (al 2026-11-09) viaja con la página; cada día solo se escribe data/dias/<fecha>.json + indice.json + manifest.json. NUNCA reescribir la base completa (create_or_update_file no aguanta ~420 KB). data/locales.json ya no existe.
