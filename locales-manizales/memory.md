@@ -14,6 +14,7 @@ Alejo puede corregir el agente respondiendo al correo diario, con notas en la p�
 - 2026-11-08: Verificar la dirección de cada local y poner un enlace a Google Maps.
 - 2026-11-09: El reporte completo vive en la página (https://claude.ai/artifact/PvV3LaRSGhfacviVvuWqg4); el correo diario es corto, con botón a la página y destacados.
 - 2026-11-09: Contacto con inmobiliarias: cuando Alejo marca un local como "contactar" en la página, el agente ENVÍA AUTOMÁTICAMENTE (en la corrida de las 8:40) un correo desde su Gmail a la inmobiliaria con la plantilla aprobada de abajo. WhatsApp no es automático: la página muestra un botón con el mensaje listo y Alejo lo envía.
+- 2026-11-09: Número de contacto para las inmobiliarias: WhatsApp 310 597 9727, SOLO WhatsApp (no llamadas). No usar el 315 050 7179 en mensajes a inmobiliarias.
 - 2026-11-09: Plantilla de correo aprobada por Alejo (no cambiarla sin que él lo pida):
   Asunto: Interés en local en arriendo – {dirección/barrio}, {m2} m²
   Cuerpo:
@@ -27,7 +28,7 @@ Alejo puede corregir el agente respondiendo al correo diario, con notas en la p�
   3. Si el uso de suelo permite panadería/cafetería con horno eléctrico.
   4. Disponibilidad para visitarlo esta semana.
 
-  Quedo atento por este medio o al WhatsApp 315 050 7179.
+  Quedo atento por este medio o por WhatsApp al 310 597 9727 (solo WhatsApp, por favor no llamadas).
 
   Gracias,
   Alejandro Toro
