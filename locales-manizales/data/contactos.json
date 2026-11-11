@@ -10,6 +10,18 @@
    "estado": "error",
    "whatsapp": "+57 319 235 4151",
    "nota": "Envío bloqueado por el control de permisos de la sesión automática; no salió. Se reintentará."
+  },
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "Villegas Ocampo propiedad raíz",
+   "destino": "comercial@vopropiedadraiz.co",
+   "asunto": "Interés en local en arriendo – El Centro, 55 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": "+57 319 235 4151",
+   "draft_id": "r-3207680835244492690",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
   }
  ],
  "centro-el-centro-20m2-194385715": [
@@ -23,6 +35,18 @@
    "estado": "error",
    "whatsapp": "318 658 5089",
    "nota": "Envío bloqueado por el control de permisos de la sesión automática; no salió. Se reintentará."
+  },
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "AF Capital Inmobiliario",
+   "destino": "capitalinmobiliariomanizales@gmail.com",
+   "asunto": "Interés en local en arriendo – El Centro, 20 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": "318 658 5089",
+   "draft_id": "r2560275553539273662",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
   }
  ],
  "centro-el-centro-22m2-194135898": [
@@ -49,6 +73,118 @@
    "estado": "sin_correo",
    "whatsapp": null,
    "nota": "Sin correo ni teléfono en Ciencuadras (solo oficina Cra 23c #62-72 of. 1003) ni en buscador."
+  }
+ ],
+ "centro-los-agustinos-29m2-3682187": [
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "Inmobiliaria Lucia Prada",
+   "destino": "administrador@inmobiliarialuciaprada.com",
+   "asunto": "Interés en local en arriendo – Los Agustinos, 29 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": "320 726 9451",
+   "draft_id": "r8677300637221405662",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  }
+ ],
+ "centro-el-centro-37m2-192745011": [
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "Vista Inmobiliaria",
+   "destino": "mercadeo@vistainmo.com",
+   "asunto": "Interés en local en arriendo – El Centro, 37 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": null,
+   "draft_id": "r598952490303592794",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  }
+ ],
+ "centro-el-centro-22m2-194145749": [
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – El Centro, 22 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": null,
+   "draft_id": "r1024147054164570903",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  }
+ ],
+ "centro-el-centro-32m2-194013088": [
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – El Centro, 32 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": null,
+   "draft_id": "r-6032255329602452429",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  }
+ ],
+ "centro-el-centro-24m2-193690898": [
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – El Centro, 24 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": null,
+   "draft_id": "r-4734542486875384530",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  }
+ ],
+ "centro-el-centro-32m2-194456627": [
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – San Antonio (El Centro), 32 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": null,
+   "draft_id": "r8844881257466918901",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  }
+ ],
+ "centro-el-centro-26m2-193689327": [
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – El Centro, 26 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": null,
+   "draft_id": "r-1669229001514298194",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  }
+ ],
+ "versalles-35m2-194479954": [
+  {
+   "fecha": "2026-11-11",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – Versalles (Av. Santander), 35 m²",
+   "thread_id": null,
+   "estado": "error",
+   "whatsapp": null,
+   "draft_id": "r1526806957552654525",
+   "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
   }
  ]
 }
