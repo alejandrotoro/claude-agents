@@ -16,3 +16,6 @@ Alejo puede corregir el agente respondiendo al correo diario, con notas en la p�
 
 ## Aprendizajes del agente
 (fuentes que funcionan o bloquean, veredas y precios de referencia, trucos de búsqueda)
+- 2026-11-11: Finca Raíz, Ciencuadras y Metrocuadrado abren bien con WebFetch; Trovit sirve como listado (con precios) pero sus fichas /detail/ están bloqueadas por robots; Mitula no da URLs individuales. Los listados de Ciencuadras por sector (/venta/<municipio>/.../finca) permiten filtrar por precio rápido.
+- 2026-11-11: Precios de referencia: fincas construidas en Santágueda, Neira y Villamaría casi todas > $480M (lo bajo el tope es raro); lotes en condominio Santágueda ~$250k/m² (1.050 m² a $262,5M), vía a Chinchiná ~$300k/m², La Cabaña (Manizales) ~$470k/m², Palestina–La Plata ~$110k/m².
+- 2026-11-11: Inmobiliaria Lucia Prada publica decenas de lotes casi idénticos (mismo condominio, códigos distintos): agruparlos en un solo registro con varias ofertas.
