@@ -6,7 +6,14 @@ Alejo puede corregir el agente respondiendo al correo diario, con notas en la p�
 
 ## Decisiones (de Alejo)
 - 2026-11-08: Objetivo: arrendar un local en Manizales para un segundo punto de dieta. (panadería de amasijos + café de mostrador).
-- 2026-11-08: Zonas: toda Manizales, con prioridad en Centro (le gustó un local en Cra 22 con Calle 22, edificio Banco de Bogotá) y en el corredor Cable / Milán / Palermo / Av. Santander.
+- 2026-11-08: Zonas: toda Manizales, con prioridad en Centro (le gustó un local en Cra 22 con Calle 22, edificio Banco de Bogotá) y en el corredor Cable / Milán / Palermo / Av. Santander. (Prioridades actualizadas el 2026-11-10, ver abajo.)
+- 2026-11-10: ZONAS PRIORITARIAS según el análisis de geointeligencia (mapa: https://claude.ai/artifact/6ymLUJZSsgX5htA9PSzLjd). Se sigue buscando en toda Manizales, pero estas zonas van primero en la búsqueda, en "fit" y en los destacados, en este orden:
+  1. Centro / San Joaquín (comuna Cumanday): barrios Centro, El Centro, San Joaquín, Fundadores, Los Agustinos, San Antonio, 20 de Julio, Buena Esperanza.
+  2. Cervantes (comuna La Fuente): Cervantes, Uribe, Prado, Santa Helena, Fundadores.
+  3. San Jorge / clúster de salud (comuna La Estación): San Jorge, La Argentina, El Sol, Lleras, Versalles, Santa Helena (cerca del Hospital de Caldas, Clínica de La Presentación, Hospital Infantil, Clínica Versalles).
+  4. Chipre (comuna Atardeceres): Chipre, Campohermoso (cerca de la Universidad de Manizales).
+  5. La Enea (comuna Tesorito): La Enea, San Marcel.
+  Un local en una de estas zonas sube un nivel de "fit" (bajo→medio, medio→alto) si cumple lo demás (primer piso, frente a calle, ≤70 m²). En destacados, di en "por" a qué zona prioritaria pertenece. El corredor Cable / Milán / Palermo / Palogrande queda a menos de 1 km del primer local: sigue entrando, pero ya no es prioritario.
 - 2026-11-08: Sin filtro de canon: traer todo y ordenarlo.
 - 2026-11-09: TAMAÑO MÁXIMO 70 m² (reemplaza "sin filtro de tamaño"). No registres como nuevos ni destaques locales de más de 70 m². Si el anuncio no dice m², inclúyelo con m2 null. Si ya está en la base y mide más de 70, ignóralo (no lo pongas en "vistos" ni "cambios") salvo que esté marcado en estado.json.
 - 2026-11-08: Facebook Marketplace: solo lo público que aparezca en buscadores; sin iniciar sesión.
@@ -55,3 +62,4 @@ Alejo puede corregir el agente respondiendo al correo diario, con notas en la p�
 - 2026-11-10: Correos de inmobiliarias (de sus perfiles en Finca Raíz o sitio oficial): Millán & Asociados arrendamientos@millanenlinea.com · Vista mercadeo@vistainmo.com · Hazul comercial@hazulinmobiliaria.com (WA 300 814 4425) · Villegas Ocampo comercial@vopropiedadraiz.co (319 235 4151) · AF Capital/Capital Inmobiliario capitalinmobiliariomanizales@gmail.com (318 658 5089) · Lucía Prada administrador@inmobiliarialuciaprada.com (320 726 9451) · Visión & Asesoría vasesoriainmobiliaria@gmail.com · Brando y Cía: sin correo. Faltan: Jorge Giraldo & Cia, Infibank Inmobiliaria.
 - 2026-11-10: Los "No indica" de Finca Raíz se identifican abriendo el anuncio ("Publicado por"); de 26 marcados "contactar", la mayoría son de MILLAN & ASOCIADOS (también Jorge Giraldo & Cia: 193369407, 194221131, 191387148; Infibank: 192326547, 194441881). Ciencuadras por barrio: ciencuadras.com/arriendo/manizales/local/<barrio>.
 - 2026-11-10: Envío a inmobiliarias: en la corrida programada el control de permisos de la sesión bloqueó 2 de 3 correos (solo salió AF Capital por 194135898). Cola pendiente: los demás locales "contactar" sin entrada "enviado"/"sin_correo" en contactos.json; reintentar ≤10/día.
+- 2026-11-10: En las zonas prioritarias con poca oferta (Cervantes, San Jorge, Chipre, La Enea) busca también por barrio: Ciencuadras (ciencuadras.com/arriendo/manizales/local/<barrio>) y Finca Raíz (/arriendo/locales/<barrio>/zona-2-sur/manizales); confirma la URL antes de dar por vacío un barrio.
