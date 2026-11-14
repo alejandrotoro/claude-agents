@@ -22,6 +22,17 @@
    "whatsapp": "+57 319 235 4151",
    "draft_id": "r-3207680835244492690",
    "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Villegas Ocampo propiedad raíz",
+   "destino": "comercial@vopropiedadraiz.co",
+   "asunto": "Interés en local en arriendo – El Centro, 55 m²",
+   "thread_id": "1a1cad88b6e7eb1b",
+   "estado": "enviado",
+   "whatsapp": "+57 319 235 4151",
+   "nota": "Se envió el borrador ya creado (mismo mensaje con la plantilla aprobada); no hay borrador pendiente."
   }
  ],
  "centro-el-centro-20m2-194385715": [
@@ -47,6 +58,17 @@
    "whatsapp": "318 658 5089",
    "draft_id": "r2560275553539273662",
    "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "AF Capital Inmobiliario",
+   "destino": "capitalinmobiliariomanizales@gmail.com",
+   "asunto": "Interés en local en arriendo – El Centro, 20 m²",
+   "thread_id": "1a1cad8f3131044e",
+   "estado": "enviado",
+   "whatsapp": "318 658 5089",
+   "nota": "Se envió el borrador ya creado (mismo mensaje con la plantilla aprobada); no hay borrador pendiente."
   }
  ],
  "centro-el-centro-22m2-194135898": [
@@ -87,6 +109,17 @@
    "whatsapp": "320 726 9451",
    "draft_id": "r8677300637221405662",
    "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Inmobiliaria Lucia Prada",
+   "destino": "administrador@inmobiliarialuciaprada.com",
+   "asunto": "Interés en local en arriendo – Los Agustinos, 29 m²",
+   "thread_id": "1a1cad8f482f8f9a",
+   "estado": "enviado",
+   "whatsapp": "320 726 9451",
+   "nota": "Se envió el borrador ya creado (mismo mensaje con la plantilla aprobada); no hay borrador pendiente."
   }
  ],
  "centro-el-centro-37m2-192745011": [
@@ -101,6 +134,17 @@
    "whatsapp": null,
    "draft_id": "r598952490303592794",
    "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Vista Inmobiliaria",
+   "destino": "mercadeo@vistainmo.com",
+   "asunto": "Interés en local en arriendo – El Centro, 37 m²",
+   "thread_id": "1a1cad8f7b257ae3",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Se envió el borrador ya creado (mismo mensaje con la plantilla aprobada); no hay borrador pendiente."
   }
  ],
  "centro-el-centro-22m2-194145749": [
@@ -115,6 +159,17 @@
    "whatsapp": null,
    "draft_id": "r1024147054164570903",
    "nota": "Envío automático bloqueado otra vez por el control de permisos. Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – El Centro, 22 m²",
+   "thread_id": "1a1cad8f99a48b94",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Se envió el borrador ya creado (mismo mensaje con la plantilla aprobada); no hay borrador pendiente."
   }
  ],
  "centro-el-centro-32m2-194013088": [
@@ -325,6 +380,214 @@
    "whatsapp": null,
    "draft_id": "r-7044461022833508302",
    "nota": "Envío automático bloqueado otra vez por el control de permisos (send_message). Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  }
+ ],
+ "av-santander-avenida-santander-18m2-194516137": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – Avenida Santander, 18 m²",
+   "thread_id": "1a1da4f01bacbb10",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Enviado con la plantilla aprobada."
+  }
+ ],
+ "la-estrella-40m2-194073873": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – La Estrella, 40 m²",
+   "thread_id": "1a1da4f35c71bf1b",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Enviado con la plantilla aprobada."
+  }
+ ],
+ "cable-milan-palermo-palermo-12m2-193311952": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – Palermo, 12 m²",
+   "thread_id": "1a1da4f3624cd4fc",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Enviado con la plantilla aprobada."
+  }
+ ],
+ "centro-el-centro-6m2-193665298": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – El Centro, 6 m²",
+   "thread_id": "1a1da4f3ac5d7642",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Enviado con la plantilla aprobada."
+  }
+ ],
+ "centro-el-centro-3m2-194059768": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – El Centro, 3 m²",
+   "thread_id": "1a1da4f3c18d19c3",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Enviado con la plantilla aprobada."
+  }
+ ],
+ "centro-el-centro-14m2-3936453": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "GOMEZ CHALJUBB",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Gómez Chaljubb no publica correo ni teléfono en Ciencuadras; búsqueda web sin resultados (solo oficina Cra 23 #25-61 of. 1305). Usar el formulario 'Contactar arrendador' del anuncio."
+  }
+ ],
+ "la-primavera-36m2-3845532": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "GOMEZ CHALJUBB",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Gómez Chaljubb no publica correo ni teléfono en Ciencuadras; búsqueda web sin resultados (solo oficina Cra 23 #25-61 of. 1305). Usar el formulario 'Contactar arrendador' del anuncio."
+  }
+ ],
+ "belen-45m2-3398702": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "GOMEZ CHALJUBB",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Gómez Chaljubb no publica correo ni teléfono en Ciencuadras; búsqueda web sin resultados (solo oficina Cra 23 #25-61 of. 1305). Usar el formulario 'Contactar arrendador' del anuncio."
+  }
+ ],
+ "la-rambla-64m2-3402408": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "GOMEZ CHALJUBB",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Gómez Chaljubb no publica correo ni teléfono en Ciencuadras; búsqueda web sin resultados (solo oficina Cra 23 #25-61 of. 1305). Usar el formulario 'Contactar arrendador' del anuncio."
+  }
+ ],
+ "velez-44m2-3640917": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "STAR Inmobiliaria",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": "314 801 4286",
+   "nota": "Sin correo en Ciencuadras ni en buscador; el celular sale en la meta descripción del anuncio. Oficina Calle 22 #22-26 of. 902."
+  }
+ ],
+ "viveros-16m2-3342665": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Inmobiliaria Giraldo Castaño Seguros y Arrendamientos",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Sin correo ni teléfono en Ciencuadras; búsqueda web sin correo oficial."
+  }
+ ],
+ "centro-el-centro-30m2-192326547": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Infibank Inmobiliaria",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Infibank Inmobiliaria: Finca Raíz solo muestra formulario de contacto; búsqueda web sin correo ni sitio oficial."
+  }
+ ],
+ "la-estrella-estrella-32m2-194441881": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Infibank Inmobiliaria",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Infibank Inmobiliaria: Finca Raíz solo muestra formulario de contacto; búsqueda web sin correo ni sitio oficial."
+  }
+ ],
+ "centro-el-centro-73m2-193369407": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Jorge Giraldo & Cia",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Jorge Giraldo & Cia: Finca Raíz solo muestra formulario de contacto; búsqueda web sin correo oficial."
+  }
+ ],
+ "versalles-24m2-191387148": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Jorge Giraldo & Cia",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Jorge Giraldo & Cia: Finca Raíz solo muestra formulario de contacto; búsqueda web sin correo oficial."
+  }
+ ],
+ "av-santander-avenida-santander-24m2-194221131": [
+  {
+   "fecha": "2026-11-14",
+   "canal": "email",
+   "anunciante": "Jorge Giraldo & Cia",
+   "destino": null,
+   "asunto": null,
+   "thread_id": null,
+   "estado": "sin_correo",
+   "whatsapp": null,
+   "nota": "Jorge Giraldo & Cia: Finca Raíz solo muestra formulario de contacto; búsqueda web sin correo oficial."
   }
  ]
 }
