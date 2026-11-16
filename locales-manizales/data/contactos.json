@@ -434,6 +434,17 @@
    "whatsapp": null,
    "draft_id": "r8088418862684735893",
    "nota": "Envío automático bloqueado otra vez por el control de permisos (send_message). Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-16",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – Palermo, 27 m²",
+   "thread_id": "1a1d00316bacb625",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Se envió el borrador ya creado (draft r8088418862684735893) con send_message + draftId; mismo mensaje con la plantilla aprobada."
   }
  ],
  "palogrande-45m2-194006958": [
@@ -448,6 +459,17 @@
    "whatsapp": null,
    "draft_id": "r929656734978661155",
    "nota": "Envío automático bloqueado otra vez por el control de permisos (send_message). Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-16",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – Palogrande, 45 m²",
+   "thread_id": "1a1d00319bd4b365",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Se envió el borrador ya creado (draft r929656734978661155) con send_message + draftId; mismo mensaje con la plantilla aprobada."
   }
  ],
  "av-santander-avenida-santander-29m2-194470352": [
@@ -462,6 +484,17 @@
    "whatsapp": null,
    "draft_id": "r5060128987473507864",
    "nota": "Envío automático bloqueado otra vez por el control de permisos (send_message). Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-16",
+   "canal": "email",
+   "anunciante": "Vista Inmobiliaria",
+   "destino": "mercadeo@vistainmo.com",
+   "asunto": "Interés en local en arriendo – Avenida Santander, 29 m²",
+   "thread_id": "1a1d0031ab5c5953",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Se envió el borrador ya creado (draft r5060128987473507864) con send_message + draftId; mismo mensaje con la plantilla aprobada."
   }
  ],
  "av-santander-avenida-santander-40m2-193847024": [
@@ -476,6 +509,17 @@
    "whatsapp": null,
    "draft_id": "r-2332165840034844517",
    "nota": "Envío automático bloqueado otra vez por el control de permisos (send_message). Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-16",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – Avenida Santander, 40 m²",
+   "thread_id": "1a1d0031c4a8b557",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Se envió el borrador ya creado (draft r-2332165840034844517) con send_message + draftId; mismo mensaje con la plantilla aprobada."
   }
  ],
  "belen-25m2-193557563": [
@@ -490,6 +534,17 @@
    "whatsapp": null,
    "draft_id": "r-7044461022833508302",
    "nota": "Envío automático bloqueado otra vez por el control de permisos (send_message). Quedó como BORRADOR en Gmail con la plantilla aprobada: Alejo solo tiene que abrir Borradores y enviarlo. No volver a crear borrador."
+  },
+  {
+   "fecha": "2026-11-16",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "arrendamientos@millanenlinea.com",
+   "asunto": "Interés en local en arriendo – Belén, 25 m²",
+   "thread_id": "1a1d0031f89a1d5f",
+   "estado": "enviado",
+   "whatsapp": null,
+   "nota": "Se envió el borrador ya creado (draft r-7044461022833508302) con send_message + draftId; mismo mensaje con la plantilla aprobada."
   }
  ],
  "av-santander-avenida-santander-18m2-194516137": [
