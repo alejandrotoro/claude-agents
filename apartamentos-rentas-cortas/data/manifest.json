@@ -1,11 +1,12 @@
 {
- "actualizado": "2026-11-16T08:55:00-05:00",
- "ultima_ejecucion": "2026-11-16",
+ "actualizado": "2026-11-17T08:50:00-05:00",
+ "ultima_ejecucion": "2026-11-17",
  "archivos": [
   "dias/2026-11-11.json",
   "dias/2026-11-12.json",
   "dias/2026-11-14.json",
   "dias/2026-11-15.json",
-  "dias/2026-11-16.json"
+  "dias/2026-11-16.json",
+  "dias/2026-11-17.json"
  ]
 }
