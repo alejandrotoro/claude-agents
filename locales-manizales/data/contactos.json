@@ -195,6 +195,15 @@
    "estado": "enviado",
    "whatsapp": null,
    "nota": "Se envió el borrador ya creado (mismo mensaje con la plantilla aprobada); no hay borrador pendiente."
+  },
+  {
+   "fecha": "2026-11-17",
+   "canal": "email",
+   "anunciante": "MILLAN & ASOCIADOS",
+   "destino": "servicioalcliente@millanenlinea.com",
+   "thread_id": "1a1cad8fafc67452",
+   "estado": "respondido",
+   "nota": "Acuse automático de Servicio al Cliente: la solicitud quedó asignada al área comercial para verificación; aún sin datos de disponibilidad, precio ni visita."
   }
  ],
  "centro-el-centro-24m2-193690898": [
