@@ -1,6 +1,6 @@
 # memory.md — Rastreador de ofertas en Amazon
 
-Memoria del agente que revisa cada 4 horas cupones, códigos y bajadas de precio en Amazon.com (y en dos grupos de Telegram) para 4 productos.
+Memoria del agente que revisa una vez al día (10:55 a. m., Bogotá) cupones, códigos y bajadas de precio en Amazon.com (y en dos grupos de Telegram) para 4 productos.
 El agente la lee al empezar cada ejecución y la edita al final si aprendió algo nuevo.
 Alejo puede corregirlo editando este archivo a mano o diciéndoselo a Claude.
 
@@ -13,6 +13,7 @@ Alejo puede corregirlo editando este archivo a mano o diciéndoselo a Claude.
 - 2026-11-17: Solo leer páginas: nunca comprar, agregar al carrito, aplicar códigos en el checkout, iniciar sesión ni escribir/reaccionar en Telegram.
 - 2026-11-17: Avisar solo ofertas nuevas o cuyo precio final bajó más que lo ya avisado. Sin ofertas nuevas = una línea, sin ruido.
 - 2026-11-19: El estado de ofertas avisadas vive en GitHub (`rastreador-ofertas/data/estado.json`), ya no en Google Drive.
+- 2026-11-19: Corre una vez al día a las 10:55 a. m. (Bogotá), ya no cada 4 horas. En Telegram revisa las últimas ~24 horas.
 
 ## Correcciones (de Alejo)
 (ninguna todavía)
