@@ -20,3 +20,4 @@ Alejo puede corregirlo editando este archivo a mano o diciéndoselo a Claude.
 
 ## Aprendizajes del agente
 - 2026-11-19: La corrida de las 6:08 a. m. (Bogotá) no tuvo Claude in Chrome disponible (Chrome cerrado o extensión inactiva). Si pasa, reportarlo en una línea y no intentar otra vía de navegación.
+- 2026-11-19: La corrida de las 10:55 a. m. tampoco tuvo herramientas de Claude in Chrome en la sesión (2 de 2 corridas). Problema recurrente: Chrome con la extensión debe estar abierto a la hora de la corrida.
