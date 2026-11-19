@@ -1,0 +1,10 @@
+{
+  "actualizado": null,
+  "ultima_ejecucion": {"fecha": "2026-11-19T06:08:00-05:00", "resultado": "Chrome no disponible"},
+  "productos": {
+    "rongta-r22-labels": {"referencia": "B0F5VG2KQG", "precio_ref": 9.99, "avisadas": []},
+    "cordless-air-duster": {"referencia": "B0995W447Y", "precio_ref": 29.99, "avisadas": []},
+    "colgate-sensitive-enamel-3x6oz": {"referencia": "B0795S9XRB", "precio_ref": 14.88, "avisadas": []},
+    "dove-cool-moisture-6x3.75oz": {"referencia": "B0016FWFDI", "precio_ref": 15.49, "avisadas": []}
+  }
+}

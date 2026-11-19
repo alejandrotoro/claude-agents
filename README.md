@@ -29,3 +29,4 @@ claude-agents/
 | `locales-manizales/` | Locales en arriendo (máx. 70 m²) para el segundo punto de dieta.; escribe a inmobiliarias de los locales marcados para contactar | Diario, 8:40 AM (Bogotá) |
 | `apartamentos-rentas-cortas/` | Apartamentos/casas en arriendo en Manizales donde se permiten rentas cortas por plataformas | Diario, 8:47 AM (Bogotá) |
 | `fincas-lotes/` | Fincas (≤ $400M) y lotes construibles (≤ $300M) en venta cerca de Manizales | Diario, 8:53 AM (Bogotá) |
+| `rastreador-ofertas/` | Cupones y bajadas de precio en Amazon.com (y grupos de Telegram) para 4 productos; avisa solo lo nuevo. Aquí `data/estado.json` lo escribe el agente (ofertas ya avisadas) | Cada 4 h (:08) |
