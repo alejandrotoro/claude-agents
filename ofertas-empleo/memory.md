@@ -78,3 +78,6 @@ WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: p
 - 2026-11-20: Greenhouse redirige las vacantes cerradas a `job-boards.greenhouse.io/<empresa>?error=true` (o muestra "La bolsa de empleo que estabas viendo ya no está activa"); Teamtailor muestra "This position is no longer active" con otras vacantes debajo.
 - 2026-11-20: Nearsure parece haber dejado su tablero de Greenhouse: buscar su página de empleos actual antes de usar enlaces viejos.
 - 2026-11-20: FullStack Labs publica la misma vacante por país/ciudad (incluye Manizales): deduplicar por empresa + título, quedarse con la de Colombia.
+- 2026-11-20: GitHub: escribir con el conector `mcp__Github__*` (G mayúscula); `mcp__github__create_or_update_file` da 403. WebFetch rechaza raíces de tableros (jobs.lever.co/<empresa>) que no salieron en un WebSearch: buscar la raíz antes ("<empresa> careers", "careers-page.com/<empresa>").
+- 2026-11-20: Koombea movió su tablero a BambooHR (koombea.bamboohr.com/careers); sus enlaces de Lever siguen visibles pero no están en su página de empleo. Get on Board mantiene indexadas vacantes cerradas ("Closed job"): verificar siempre.
+- 2026-11-20: careers-page.com carga la lista de vacantes con JS (WebFetch no la ve); Zarego usa lenguaje de "talent pool".
