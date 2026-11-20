@@ -34,6 +34,16 @@ Alejo puede corregirlo editando este archivo, respondiendo el correo diario o di
 - Bonus (máx. 10): modernización legacy / upgrades de Rails, fintech, edtech, geoespacial, widgets/embebibles, SaaS B2B, .NET legacy + Rails, IA aplicada a producto.
 - **Alto ≥ 75**, **Medio 60–74**, < 60 no se envía.
 
+## Verificación de enlaces (OBLIGATORIA — corrección de Alejo 2026-11-20)
+El primer correo traía enlaces rotos: los resultados de WebSearch y los agregadores conservan vacantes que ya cerraron. Una oferta SOLO se envía si pasa TODO esto:
+1. **El enlace sale del tablero vivo de la empresa.** Para ATS (Greenhouse, Lever, Ashby, Workable, Teamtailor, careers-page), busca y abre primero la página RAÍZ del tablero (p. ej. `job-boards.greenhouse.io/nortal`, `jobs.lever.co/koombea`) y toma el enlace de la vacante SOLO si aparece en la lista actual. Si no aparece en la raíz → cerrada.
+2. **WebFetch al enlace exacto que irá en el correo** (no a otra copia) con un prompt que pida: URL final después de redirecciones, título del puesto tal como aparece, si hay botón o formulario para aplicar ("Apply", "Apply for this job", "Postular"), y si aparece algún texto de cierre.
+3. Se descarta como **CERRADA** si: la URL final cambió a la raíz del tablero, contiene `?error=true`, `/404` o `expired`; o el texto dice "no longer active", "no longer accepting applications", "position has been filled", "job not found", "Página no encontrada", "ya no está activa", "this job has expired", "closed"; o la página muestra solo una lista de otras vacantes; o no hay botón/formulario para aplicar.
+4. **Agregadores** (Jobgether, Remote Rocketship, 4dayweek, Arc, Working Nomads, Built In, portfolio boards de VCs, etc.): no enviar su enlace si la vacante es de una empresa con tablero propio. Busca la misma vacante en el tablero de la empresa y verifica allí con los pasos 1–3. Solo si la empresa no tiene tablero propio se acepta el enlace del agregador, y únicamente si el agregador muestra fecha de publicación ≤ 14 días y botón de aplicar.
+5. Si WebFetch falla o la respuesta es ambigua → NO se envía como oferta; va a una sección final "No pude verificar (revisa tú)" con máx. 3 entradas, sin contarla en el total.
+6. En cada oferta enviada, escribe la línea "✅ Verificada abierta hoy: <evidencia corta, p. ej. 'botón Apply visible, aparece en jobs.lever.co/koombea'>".
+Mejor 2 ofertas reales que 10 rotas.
+
 ## Fuentes (rotación)
 WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: primero busca, luego abre el enlace del resultado.
 ### Núcleo — TODOS los días
@@ -57,11 +67,14 @@ WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: p
 - Domingo: solo núcleo.
 
 ## Correcciones (de Alejo)
-(vacío)
+- 2026-11-20: "La gran mayoría de los enlaces están rotos." → regla de verificación obligatoria (sección de arriba). Comprobado en Chrome: Nearsure 4801109007 y 4728428007 (tablero de Greenhouse de Nearsure inactivo), Nortal 5204946007 (ya no está en job-boards.greenhouse.io/nortal) y Nir Yu 8184302 ("This position is no longer active") estaban cerrados.
+- 2026-11-20: Enviar UN SOLO correo por corrida (el 20-nov llegaron dos).
 
 ## Empresas descartadas (de Alejo)
 (vacío)
 
 ## Aprendizajes del agente
 - 2026-11-20: Muchas casas de software publican vacantes "de pipeline" (p. ej. Koombea: "applying does not guarantee immediate placement"). Reportarlas marcadas como "pipeline", con fit −5.
+- 2026-11-20: Greenhouse redirige las vacantes cerradas a `job-boards.greenhouse.io/<empresa>?error=true` (o muestra "La bolsa de empleo que estabas viendo ya no está activa"); Teamtailor muestra "This position is no longer active" con otras vacantes debajo.
+- 2026-11-20: Nearsure parece haber dejado su tablero de Greenhouse: buscar su página de empleos actual antes de usar enlaces viejos.
 - 2026-11-20: FullStack Labs publica la misma vacante por país/ciudad (incluye Manizales): deduplicar por empresa + título, quedarse con la de Colombia.
