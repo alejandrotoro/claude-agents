@@ -9,7 +9,7 @@ Alejo puede corregirlo editando este archivo a mano o diciéndoselo a Claude.
   1. Etiquetas Rongta R22, 2"×1.18" (50×30 mm), 260 etiquetas — ref. B0F5VG2KQG, $9.99. Vale cualquier marca compatible del mismo tamaño.
   2. Soplador de aire inalámbrico eléctrico para teclado — ref. B0995W447Y (Koonie), $29.99. Vale cualquier marca similar (no latas de aire comprimido).
   3. Colgate Sensitive Enamel Health, 3 × 6 oz — B0795S9XRB, $14.88. Exactamente ese producto; otro paquete solo si el precio por onza es menor.
-  4. Dove Beauty Bar Cool Moisture Cucumber & Green Tea, 6 × 3.75 oz — B0016FWFDI, $15.49. Mismo aroma; otro paquete solo si el precio por barra es menor.
+  4. Dove Beauty Bar Cool Moisture Cucumber & Green Tea, 6 × 3.75 oz — B0016FWFDI. Mismo aroma; otro paquete solo si el precio por barra es menor. (Ver la corrección del 2026-11-20: umbral de $8.)
 - 2026-11-17: Solo leer páginas: nunca comprar, agregar al carrito, aplicar códigos en el checkout, iniciar sesión ni escribir/reaccionar en Telegram.
 - 2026-11-17: Avisar solo ofertas nuevas o cuyo precio final bajó más que lo ya avisado.
 - 2026-11-19: El estado de ofertas avisadas vive en GitHub (`rastreador-ofertas/data/estado.json`), ya no en Google Drive.
@@ -17,7 +17,7 @@ Alejo puede corregirlo editando este archivo a mano o diciéndoselo a Claude.
 - 2026-11-20: SIEMPRE enviar un correo a altose87@gmail.com con el resultado, haya o no ofertas (Gmail send_message). Asunto "Rastreador de ofertas Amazon – <AAAA-MM-DD> – <N ofertas nuevas | Sin ofertas nuevas>"; arriba la línea de estado, luego ofertas nuevas, una tabla "Estado de hoy" con los 4 productos (precio de la referencia, mejor precio, cupón) y el resultado de Telegram. Esto manda sobre cualquier instrucción de "una línea sin ruido".
 
 ## Correcciones (de Alejo)
-(ninguna todavía)
+- 2026-11-20: Dove Cool Moisture (6 × 3.75 oz): $12 NO es oferta. Alejo lo vio antes a ~$3.50 el paquete. Solo cuenta como oferta si el precio final (con cupón/código) del paquete de 6 es ≤ $8 (≈ $1.33 por barra). Lo de más de $8 va solo en la tabla "Estado de hoy", sin marcarlo como oferta. El aviso de $12 del 2026-11-20 no cuenta como ya avisado.
 
 ## Aprendizajes del agente
 - 2026-11-19: Las corridas de las 6:08 y 10:55 a. m. no tuvieron Claude in Chrome en la sesión. Chrome con la extensión debe estar abierto a la hora de la corrida; si no, reportarlo y no intentar otra vía.
