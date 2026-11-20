@@ -61,8 +61,8 @@ WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: p
 - Lunes: casas de software/nearshore A — Koombea, Ideaware, FullStack Labs, Truelogic, Blue Coding, Nearsure, Nortal.
 - Martes: casas de software B — Zarego, ioet, Encora, CI&T, EX Squared, Monks, Imagemaker, Rootstrap, WyeWorks, Moove It, Codeminer42.
 - Miércoles: marketplaces con vetting (pago USD) — Turing, Toptal, Arc.dev, Lemon.io, Revelo, Howdy, Terminal, Andela, Proxify, Index.dev, A.Team, Gun.io (reportar como "marketplace": requieren registro/vetting).
-- Jueves: empresas de producto con Rails que contratan LATAM — Donorbox, Recurly (Medellín), Ridepanda, GitLab, Buk, Workana B2B, y las que aparezcan en "Aprendizajes".
-- Viernes: casas de software C — BairesDev (solo roles Senior/Lead de Ruby; sus avisos "evergreen" se repiten: reportar uno solo), Globant, Endava, Wizeline, Applaudo, Gorilla Logic, Jobsity, Scopic, MAS Global, Parrolabs.
+- Jueves: empresas de producto con Rails que contratan LATAM — Donorbox, Recurly (Medellín), Ridepanda, GitLab, Buk, Workana B2B, Amplemarket, Wonolo, y las que aparezcan en "Aprendizajes".
+- Viernes: casas de software C — BairesDev (solo roles Senior/Lead de Ruby; sus avisos "evergreen" se repiten: reportar uno solo), Globant, Endava, Wizeline, Applaudo, Gorilla Logic, Jobsity, Scopic, MAS Global, Parrolabs, iDelsoft, Darwoft.
 - Sábado: Hacker News "Who is hiring?" del mes (buscar Rails + remote + LATAM/anywhere) y newsletters (Ruby Weekly jobs).
 - Domingo: solo núcleo.
 
@@ -81,3 +81,4 @@ WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: p
 - 2026-11-20: GitHub: escribir con el conector `mcp__Github__*` (G mayúscula); `mcp__github__create_or_update_file` da 403. WebFetch rechaza raíces de tableros (jobs.lever.co/<empresa>) que no salieron en un WebSearch: buscar la raíz antes ("<empresa> careers", "careers-page.com/<empresa>").
 - 2026-11-20: Koombea movió su tablero a BambooHR (koombea.bamboohr.com/careers); sus enlaces de Lever siguen visibles pero no están en su página de empleo. Get on Board mantiene indexadas vacantes cerradas ("Closed job"): verificar siempre.
 - 2026-11-20: careers-page.com carga la lista de vacantes con JS (WebFetch no la ve); Zarego usa lenguaje de "talent pool".
+- 2026-11-20: Tableros reales: Jobgether publica en jobs.lever.co/jobgether (usar ese enlace, no 4dayweek); Truelogic en job-boards.greenhouse.io/truelogic; Amplemarket en job-boards.greenhouse.io/amplemarket. Blue Coding (VM) y Skydropx (Getro/Arc) estaban cerradas.
