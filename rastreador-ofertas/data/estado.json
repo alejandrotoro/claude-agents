@@ -1,10 +1,16 @@
 {
-  "actualizado": "2026-11-19T10:55:00-05:00",
-  "ultima_ejecucion": {"fecha": "2026-11-19T10:55:00-05:00", "resultado": "Chrome no disponible"},
+  "actualizado": "2026-11-20T09:25:00-05:00",
+  "ultima_ejecucion": {"fecha": "2026-11-20T09:25:00-05:00", "resultado": "3 ofertas nuevas"},
   "productos": {
     "rongta-r22-labels": {"referencia": "B0F5VG2KQG", "precio_ref": 9.99, "avisadas": []},
-    "cordless-air-duster": {"referencia": "B0995W447Y", "precio_ref": 29.99, "avisadas": []},
-    "colgate-sensitive-enamel-3x6oz": {"referencia": "B0795S9XRB", "precio_ref": 14.88, "avisadas": []},
-    "dove-cool-moisture-6x3.75oz": {"referencia": "B0016FWFDI", "precio_ref": 15.49, "avisadas": []}
+    "cordless-air-duster": {"referencia": "B0995W447Y", "precio_ref": 29.99, "avisadas": [
+      {"asin": "B0HD6RDTJ8", "tipo": "precio", "codigo": null, "precio_final": 15.19, "fuente": "Amazon (búsqueda)", "fecha": "2026-11-20"}
+    ]},
+    "colgate-sensitive-enamel-3x6oz": {"referencia": "B0795S9XRB", "precio_ref": 14.88, "avisadas": [
+      {"asin": "B0795S9XRB", "tipo": "cupon 15%", "codigo": null, "precio_final": 12.65, "fuente": "Amazon", "fecha": "2026-11-20"}
+    ]},
+    "dove-cool-moisture-6x3.75oz": {"referencia": "B0016FWFDI", "precio_ref": 15.49, "avisadas": [
+      {"asin": "B0016FWFDI", "tipo": "precio", "codigo": null, "precio_final": 12.00, "fuente": "Amazon", "fecha": "2026-11-20"}
+    ]}
   }
 }
