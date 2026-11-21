@@ -112,3 +112,15 @@ _(reglas generales que Alejo dio al responder los correos)_
   Nota técnica: el `htmlBody` del correo va tal cual — NO envolverlo en
   `<![CDATA[ … ]]>`, porque Gmail se traga la etiqueta de apertura y deja un `]]>`
   suelto al final del mensaje.
+- 2026-11-21 (16:27): Confirmado que Alejo responde a mano y **rápido** — en el post
+  del sánduche los tres comentarios quedaron respondidos por dieta_mzls (uno hace 18
+  minutos). O sea: los comentarios **del día** normalmente ya están atendidos cuando
+  llega el agente. El valor real del agente está en los **atrasados de sep y oct**,
+  que llevan meses sin respuesta.
+- 2026-11-21 (16:27): Por eso, en MODO COMPLETO conviene **reverificar cada propuesta
+  pendiente** antes de volver a contarla: una de las 11 del correo de la 1:40 p. m.
+  (la respuesta de lpaolad) quedó obsoleta porque Alejo ya la había respondido.
+  Las que quedan vigentes se marcan en estado.json con `verificado_sin_respuesta`.
+- 2026-11-21 (16:27): Nombres que la gente ya propuso para el sánduche de pandebono,
+  todos ya respondidos a mano: **Sanwafle** (lpaolad), **Bonowich** (lesliecasrod) y
+  **Sandwichbono** (valenciaga1982). No volver a proponerles respuesta.
