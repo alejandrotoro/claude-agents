@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-11-21T15:24:00-05:00",
+  "actualizado": "2026-11-21T16:27:00-05:00",
   "ultima_ejecucion": {
-    "fecha": "2026-11-21T15:24:00-05:00",
-    "modo": "rapido",
-    "resultado": "Sin novedades"
+    "fecha": "2026-11-21T16:27:00-05:00",
+    "modo": "completo",
+    "resultado": "0 nuevos por proponer, 0 publicadas (3 comentarios nuevos ya respondidos a mano por la pagina)"
   },
   "notas": [
     "2026-11-21T10:23:53-05:00 — Primera corrida. La tarea programada corre en la nube sin el computador de Alejo: no hay herramientas de Chrome / Claude in Chrome en la sesion, asi que Business Suite no se puede abrir. No se leyeron ni se publicaron comentarios. Sin correos previos de 'Comentarios de dieta', asi que no habia nada aprobado pendiente. Arreglo: abrir la tarea en la app de escritorio de Claude en el computador con Chrome y activar 'Require this computer'.",
@@ -13,7 +13,8 @@
     "2026-11-21T12:24:00-05:00 — Quinta corrida (hora 12, MODO RAPIDO). PASO 1 hecho: el unico hilo de 'Comentarios de dieta' sigue siendo el reporte propio de las 10:23 (messageCount 1), sin respuesta de Alejo. Nada aprobado pendiente, asi que la corrida termina aqui sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo. Computador conectado y herramientas de navegador disponibles. La primera busqueda real de comentarios sigue pendiente para el MODO COMPLETO de la 1:23 p. m.",
     "2026-11-21T13:40:00-05:00 — Sexta corrida (hora 13, MODO COMPLETO). PRIMERA CORRIDA QUE LOGRO ENTRAR A BUSINESS SUITE. Detalle util para las proximas: hay DOS Chrome conectados a la cuenta y la sesion no elige solo. 'Browser 1' (deviceId 71f7c1b8-b8d2-47e9-a74a-30d817bfbcc6) NO tiene sesion iniciada en Business Suite (manda al login de Meta). 'Browser 2' (deviceId e62536a4-0478-426d-8bc7-7f0c1649d2eb) SI esta logueado y es el que sirve: usar select_browser con ese deviceId de una. Nunca iniciar sesion ni escribir contrasenas. PASO 1 hecho: sin respuesta de Alejo, nada aprobado, nada publicado. PASO 3 y 4: se recorrieron las dos pestanas. Instagram: 9 publicaciones con comentarios; Facebook: una sola publicacion (el anuncio de empanadas congeladas del 13 de oct). Se encontraron 11 comentarios de usuarios sin respuesta de la pagina (la mayoria atrasados de sep y oct) mas 1 spam. Se mando correo con las 11 propuestas numeradas. OJO: alguien esta respondiendo a mano desde la pagina (hay respuestas de dieta_mzls y de Dieta de hace 3 horas en el post del sanduche y en el anuncio de Facebook), asi que antes de publicar conviene reverificar que el comentario siga sin respuesta.",
     "2026-11-21T14:25:00-05:00 — Septima corrida (hora 14, MODO RAPIDO). PASO 1 hecho: ahora hay dos hilos de 'Comentarios de dieta' (el reporte de las 10:23 y el de las 13:40 con las 11 propuestas), los dos con messageCount 1, o sea sin respuesta de Alejo todavia. Nada aprobado pendiente: la corrida termina aqui sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo. Las 11 propuestas siguen esperando su 'publica la 1 y la 3' o similar. Proxima corrida en MODO COMPLETO: 4:23 p. m.",
-    "2026-11-21T15:24:00-05:00 — Octava corrida (hora 15, MODO RAPIDO). PASO 1 hecho: los dos hilos de 'Comentarios de dieta' (10:23 y 13:40) siguen con messageCount 1, sin respuesta de Alejo. Nada aprobado pendiente, asi que la corrida termina aqui sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo. Las 11 propuestas del correo de la 1:40 p. m. siguen esperando aprobacion. Proxima corrida en MODO COMPLETO: 4:23 p. m. — ahi conviene reverificar en Business Suite si alguien respondio a mano alguno de los 11 antes de volver a proponerlos."
+    "2026-11-21T15:24:00-05:00 — Octava corrida (hora 15, MODO RAPIDO). PASO 1 hecho: los dos hilos de 'Comentarios de dieta' (10:23 y 13:40) siguen con messageCount 1, sin respuesta de Alejo. Nada aprobado pendiente, asi que la corrida termina aqui sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo. Las 11 propuestas del correo de la 1:40 p. m. siguen esperando aprobacion. Proxima corrida en MODO COMPLETO: 4:23 p. m. — ahi conviene reverificar en Business Suite si alguien respondio a mano alguno de los 11 antes de volver a proponerlos.",
+    "2026-11-21T16:27:00-05:00 — Novena corrida (hora 16, MODO COMPLETO). PASO 1: los dos hilos de 'Comentarios de dieta' siguen con messageCount 1, sin respuesta de Alejo, asi que nada aprobado y nada publicado. PASO 3 (reverificacion completa en Business Suite, las 10 publicaciones de Instagram y la de Facebook): CONFIRMADO que Alejo esta respondiendo a mano y bastante rapido. En el post del sanduche los TRES comentarios ya tienen respuesta de dieta_mzls (a lpaolad 'Sanwafle' hace 6 h y otra vez hace 42 min; a lesliecasrod 'Bonowich' hace 6 h; a valenciaga1982 'Sandwichbono' hace 18 min). En Facebook, 'Tienen guiso?' de Felipe Gonzalez Calderon tambien quedo respondido hace 6 h. O sea que los 3 comentarios nuevos de esta corrida ya estaban atendidos antes de que el agente llegara. De las 11 propuestas del correo de la 1:40 p. m., la numero 1 (respuesta de lpaolad 'de mi cabeza...') quedo OBSOLETA porque Alejo ya la respondio a mano; las otras 10 siguen sin respuesta de la pagina y siguen vigentes. No se envio correo: no habia nada nuevo que proponer ni nada publicado. Aprendizaje operativo: cuando Alejo esta activo respondiendo a mano, el valor del agente esta en los atrasados de sep/oct, no en los comentarios del dia."
   ],
   "comentarios": {
     "ig-sanduche-lpaolad-2": {
@@ -23,9 +24,34 @@
       "texto": "@dieta_mzls de mi cabeza. Fue sencillo San de sanduche y waffle por la forma ... y listo...",
       "fecha": "2026-11-21 (hace 3 h)",
       "propuesta": "Sale del nombre y de la forma al mismo tiempo. Por eso suena tan facil de decir. El lunes 23 nos cuentas si sabe como suena.",
-      "estado": "propuesta",
+      "estado": "descartada",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "motivo": "Obsoleta: Alejo la respondio a mano desde la pagina el 2026-11-21 (~15:45) con '@lpaolad Quedo facil de decir, que es lo dificil. El lunes 23 pidelo asi y vemos si pega.'"
+    },
+    "ig-sanduche-lesliecasrod": {
+      "red": "instagram",
+      "post": "Esto todavia no tiene nombre (sanduche de pandebono en waflera) - 21 nov 2026",
+      "autor": "lesliecasrod (Leslie Castro)",
+      "texto": "Bonowich",
+      "fecha": "2026-11-21 (hace 7 h)",
+      "propuesta": null,
+      "estado": "ignorada",
+      "enviada_el": null,
+      "publicada_el": null,
+      "motivo": "Ya respondido a mano por dieta_mzls hace ~6 h. No se propone nada."
+    },
+    "ig-sanduche-valenciaga1982": {
+      "red": "instagram",
+      "post": "Esto todavia no tiene nombre (sanduche de pandebono en waflera) - 21 nov 2026",
+      "autor": "valenciaga1982",
+      "texto": "Sandwichbono",
+      "fecha": "2026-11-21 (hace 2 h)",
+      "propuesta": null,
+      "estado": "ignorada",
+      "enviada_el": null,
+      "publicada_el": null,
+      "motivo": "Ya respondido a mano por dieta_mzls hace ~18 min. No se propone nada."
     },
     "ig-coco-margaritamejiag": {
       "red": "instagram",
@@ -36,7 +62,8 @@
       "propuesta": "Voto recibido, y sin diplomacia, como pedimos. La receta quedo <CONFIRMAR: con coco o sin coco?>. Si quieres apartar natilla con bunuelos, escribenos al 315 050 7179.",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:20:00-05:00"
     },
     "ig-paraLlevar-torogonzalezuriel": {
       "red": "instagram",
@@ -47,7 +74,8 @@
       "propuesta": "Se nos paso responderte. Esa de salir caminando con la empanada en la mano es la que mas se pide. 🤎",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:20:00-05:00"
     },
     "ig-sejuzga-naty_duque12": {
       "red": "instagram",
@@ -58,7 +86,8 @@
       "propuesta": "Llegamos tarde a este, pero el punto sigue en pie: la de las 8 no es la misma que la que uno recalienta en la casa.",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:21:00-05:00"
     },
     "ig-semanados-halloween_community_": {
       "red": "instagram",
@@ -81,7 +110,8 @@
       "propuesta": "Se nos quedo este sin responder. ¿Le atinaste al primero disfrazado o te agarro por sorpresa?",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:22:00-05:00"
     },
     "ig-terranova-torogonzalezuriel": {
       "red": "instagram",
@@ -92,7 +122,8 @@
       "propuesta": "Dos meses tarde, pero te leimos. El calentado sigue siendo bajo pedido: lo pides y se arma en el momento. 315 050 7179.",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:22:00-05:00"
     },
     "ig-cajita-geral_7313": {
       "red": "instagram",
@@ -103,7 +134,8 @@
       "propuesta": "Se nos paso este. Por eso la cajita va con todo adentro y nadie tiene que elegir. 🤎",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:23:00-05:00"
     },
     "ig-antojo-naty_duque12": {
       "red": "instagram",
@@ -114,7 +146,8 @@
       "propuesta": "Tarde, pero aca estamos. Tres emojis es claramente dia de calentado completo.",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:23:00-05:00"
     },
     "ig-antojo-geral_7313": {
       "red": "instagram",
@@ -125,7 +158,8 @@
       "propuesta": "Se nos paso responderte. ¿Completo o medio? Ahi es donde se arma la pelea.",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:23:00-05:00"
     },
     "fb-congeladas-ligiafonseca": {
       "red": "facebook",
@@ -136,7 +170,20 @@
       "propuesta": "Nos demoramos en responderte, Ligia. Son las mismas de la tienda, con el mismo guiso, solo que precocidas. Paquete x10 en $24.000 al 315 050 7179.",
       "estado": "propuesta",
       "enviada_el": "2026-11-21",
-      "publicada_el": null
+      "publicada_el": null,
+      "verificado_sin_respuesta": "2026-11-21T16:25:00-05:00"
+    },
+    "fb-congeladas-felipegonzalez": {
+      "red": "facebook",
+      "post": "Llegaron las empanadas congeladas de dieta (anuncio) - 13 oct 2026",
+      "autor": "Felipe Gonzalez Calderon",
+      "texto": "Tienen guiso 🍲?",
+      "fecha": "2026-10-13 (hace 4 sem)",
+      "propuesta": null,
+      "estado": "ignorada",
+      "enviada_el": null,
+      "publicada_el": null,
+      "motivo": "Ya respondido a mano por la pagina Dieta hace ~6 h. No se propone nada."
     }
   }
 }
