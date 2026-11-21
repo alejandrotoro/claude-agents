@@ -33,16 +33,20 @@ Publicar de más es el peor error; esperar una corrida más no le cuesta nada a 
 - Natilla con buñuelos.
 - Sánduche de pandebono hecho en waflera — **lanzamiento 23 de noviembre de 2026**.
   Antes de esa fecha no se habla de él como si ya estuviera a la venta.
+  Sale desde las 7 a. m., en el mostrador, a domicilio y por Rappi.
+  Dos versiones: jamón, queso y huevo; o jamón, queso, tomate y lechuga.
 
 ### Empanadas congeladas
 - Son exactamente las mismas de la tienda, con el mismo guiso.
 - Vienen **precocidas** (no crudas): se fríen unos minutos en casa.
-- Paquete x10 en **$24.000**.
+- Paquete x10 en **$24.000** — sale a **$2.400** cada una.
+- Se pueden hacer **en air fryer o en aceite**.
 
 ### Datos SIN confirmar (no inventar)
 Horarios de atención, cobertura y costo de domicilio, precios unitarios distintos
 al paquete de empanadas congeladas, ingredientes y alérgenos, precios de combos
-navideños, precios de refrigerios empresariales.
+navideños, precios de refrigerios empresariales, cómo quedó la receta de natilla
+(con coco o sin coco) después del voto del 15 de noviembre.
 Si un comentario pregunta algo de esta lista: dejar `<CONFIRMAR: …>` en la propuesta
 y pedírselo a Alejo en el correo.
 
@@ -94,3 +98,14 @@ _(reglas generales que Alejo dio al responder los correos)_
 - 2026-11-21: Repo y archivos de estado creados desde cero (`comentarios-redes/`).
   No había correos previos de "Comentarios de dieta", así que no hay nada aprobado
   pendiente de publicar.
+- 2026-11-21: Hay **dos Chrome conectados** a la cuenta y la sesión no elige sola.
+  "Browser 2" (deviceId `e62536a4-0478-426d-8bc7-7f0c1649d2eb`) es el que tiene sesión
+  en Business Suite; "Browser 1" (`71f7c1b8-b8d2-47e9-a74a-30d817bfbcc6`) manda al
+  login de Meta. Seleccionar Browser 2 de una con `select_browser`, y nunca iniciar
+  sesión ni escribir contraseñas.
+- 2026-11-21: Alguien (Alejo u otra persona) está respondiendo comentarios **a mano**
+  desde la página. Antes de publicar una respuesta aprobada hay que reverificar que
+  el comentario siga sin respuesta, para no duplicar.
+- 2026-11-21: En Facebook el inbox de comentarios solo muestra una publicación (el
+  anuncio de empanadas congeladas del 13 de oct). El volumen real de comentarios está
+  en Instagram: 9 publicaciones con comentarios, varias con atrasados de sep y oct.
