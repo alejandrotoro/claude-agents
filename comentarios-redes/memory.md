@@ -107,5 +107,8 @@ _(reglas generales que Alejo dio al responder los correos)_
   desde la página. Antes de publicar una respuesta aprobada hay que reverificar que
   el comentario siga sin respuesta, para no duplicar.
 - 2026-11-21: En Facebook el inbox de comentarios solo muestra una publicación (el
-  anuncio de empanadas congeladas del 13 de oct). El volumen real de comentarios está
-  en Instagram: 9 publicaciones con comentarios, varias con atrasados de sep y oct.
+  anuncio de empanadas congeladas del 13 de oct); el volumen real está en Instagram
+  (9 publicaciones con comentarios, varias con atrasados de sep y oct).
+  Nota técnica: el `htmlBody` del correo va tal cual — NO envolverlo en
+  `<![CDATA[ … ]]>`, porque Gmail se traga la etiqueta de apertura y deja un `]]>`
+  suelto al final del mensaje.
