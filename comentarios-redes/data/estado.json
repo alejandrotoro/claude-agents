@@ -1,13 +1,14 @@
 {
-  "actualizado": "2026-11-21T10:35:54-05:00",
+  "actualizado": "2026-11-21T10:37:00-05:00",
   "ultima_ejecucion": {
-    "fecha": "2026-11-21T10:35:54-05:00",
+    "fecha": "2026-11-21T10:37:00-05:00",
     "modo": "completo",
     "resultado": "Chrome no disponible"
   },
   "notas": [
     "2026-11-21T10:23:53-05:00 — Primera corrida. La tarea programada corre en la nube sin el computador de Alejo: no hay herramientas de Chrome / Claude in Chrome en la sesion, asi que Business Suite no se puede abrir. No se leyeron ni se publicaron comentarios. Sin correos previos de 'Comentarios de dieta', asi que no habia nada aprobado pendiente. Arreglo: abrir la tarea en la app de escritorio de Claude en el computador con Chrome y activar 'Require this computer'.",
-    "2026-11-21T10:35:54-05:00 — Segunda corrida (hora 10, modo completo). PASO 1 hecho: el unico hilo de 'Comentarios de dieta' es el reporte propio de las 10:23, sin respuesta de Alejo todavia, asi que no hay nada aprobado ni descartado que procesar. Chrome sigue sin estar disponible (misma causa: corrida en la nube sin el computador), asi que no se pudieron buscar comentarios nuevos. No se envio correo: a Alejo ya se le explico el problema a las 10:23 y no habia nada aprobado esperando publicacion."
+    "2026-11-21T10:35:54-05:00 — Segunda corrida (hora 10, modo completo). PASO 1 hecho: el unico hilo de 'Comentarios de dieta' es el reporte propio de las 10:23, sin respuesta de Alejo todavia, asi que no hay nada aprobado ni descartado que procesar. Chrome sigue sin estar disponible (misma causa: corrida en la nube sin el computador), asi que no se pudieron buscar comentarios nuevos. No se envio correo: a Alejo ya se le explico el problema a las 10:23 y no habia nada aprobado esperando publicacion.",
+    "2026-11-21T10:37:00-05:00 — Tercera corrida, disparada a mano para VERIFICAR el arreglo del acceso a Chrome. Resultado: el arreglo NO funciono. La sesion sigue corriendo en la nube sin el computador de Alejo: no existen ni las herramientas de Claude in Chrome ni las de remote-devices, asi que Business Suite no se puede abrir y no hay forma de leer ni publicar comentarios. PASO 1 hecho igual: sin respuestas de Alejo, nada aprobado pendiente. Aprendizaje para proximas corridas: una corrida disparada a mano desde otro lado (fire_trigger) sale igualmente en la nube; 'Require this computer' hay que activarlo en la tarea desde la app de escritorio en el computador con Chrome, y conviene verificarlo con una corrida programada normal, no con un disparo manual."
   ],
   "comentarios": {}
 }
