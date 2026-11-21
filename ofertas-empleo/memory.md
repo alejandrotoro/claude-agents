@@ -61,7 +61,7 @@ WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: p
 - Lunes: casas de software/nearshore A — Koombea, Ideaware, FullStack Labs, Truelogic, Blue Coding, Nearsure, Nortal.
 - Martes: casas de software B — Zarego, ioet, Encora, CI&T, EX Squared, Monks, Imagemaker, Rootstrap, WyeWorks, Moove It, Codeminer42.
 - Miércoles: marketplaces con vetting (pago USD) — Turing, Toptal, Arc.dev, Lemon.io, Revelo, Howdy, Terminal, Andela, Proxify, Index.dev, A.Team, Gun.io (reportar como "marketplace": requieren registro/vetting).
-- Jueves: empresas de producto con Rails que contratan LATAM — Donorbox, Recurly (Medellín), Ridepanda, GitLab, Buk, Workana B2B, Amplemarket, Wonolo, y las que aparezcan en "Aprendizajes".
+- Jueves: empresas de producto con Rails que contratan LATAM — Donorbox, Recurly (Medellín), Ridepanda, GitLab, Buk, Workana B2B, Amplemarket, Wonolo, SerpApi (serpapi.com/careers), Sur (apply.workable.com/surglobal), Devlane, Monterail (freelance), y las que aparezcan en "Aprendizajes".
 - Viernes: casas de software C — BairesDev (solo roles Senior/Lead de Ruby; sus avisos "evergreen" se repiten: reportar uno solo), Globant, Endava, Wizeline, Applaudo, Gorilla Logic, Jobsity, Scopic, MAS Global, Parrolabs, iDelsoft, Darwoft.
 - Sábado: Hacker News "Who is hiring?" del mes (buscar Rails + remote + LATAM/anywhere) y newsletters (Ruby Weekly jobs).
 - Domingo: solo núcleo.
@@ -82,3 +82,6 @@ WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: p
 - 2026-11-20: Koombea movió su tablero a BambooHR (koombea.bamboohr.com/careers); sus enlaces de Lever siguen visibles pero no están en su página de empleo. Get on Board mantiene indexadas vacantes cerradas ("Closed job"): verificar siempre.
 - 2026-11-20: careers-page.com carga la lista de vacantes con JS (WebFetch no la ve); Zarego usa lenguaje de "talent pool".
 - 2026-11-20: Tableros reales: Jobgether publica en jobs.lever.co/jobgether (usar ese enlace, no 4dayweek); Truelogic en job-boards.greenhouse.io/truelogic; Amplemarket en job-boards.greenhouse.io/amplemarket. Blue Coding (VM) y Skydropx (Getro/Arc) estaban cerradas.
+- 2026-11-21: Los resultados de búsqueda de Get on Board, Built In, RemoteOK y jobs.rubyonrails.org son casi todos vacantes cerradas/expiradas: priorizar ATS directos. Workable (`/jobs/view/<id>.md`) muestra fecha exacta "Posted": usarla para el filtro de 30 días.
+- 2026-11-21: Sábado HN: www.hnhiring.com/technologies/rails filtra bien las ofertas Rails del mes (mejor que la página completa del mes). SerpApi contrata en todo el mundo como contratistas (serpapi.com/careers, aplicar por mailto).
+- 2026-11-21: careers.epam.com no renderiza vacantes con WebFetch (solo landing); Topsort (Greenhouse) da rate limit; Monterail publica en Workable con cabecera Polonia aunque es freelance remoto (elegibilidad LATAM sin confirmar).
