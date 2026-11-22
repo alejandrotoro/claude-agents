@@ -1,0 +1,28 @@
+{"fecha":"2026-11-22","enviadas":[],
+"no_verificadas":[
+{"empresa":"Toptal","titulo":"Senior Full-stack Engineer (Engineering – Marketplace One)","url":"https://jobs.lever.co/toptal/48deeb6e-927f-4f07-bd4d-c605e2bb862e","motivo":"Pagina Lever carga con descripcion completa y sin texto de cierre (South America/Central America, RoR+React, full-time), pero WebFetch devuelve texto plano y no se pudo confirmar el boton Apply. Fit estimado 78."},
+{"empresa":"Toptal","titulo":"Senior Fullstack Engineer (Engineering – Billing)","url":"https://jobs.lever.co/toptal/1a5cf8e3-cde8-4530-95ed-713ef1948686","motivo":"Igual que la anterior: Europa y South America, React/TS + RoR, guardias on-call. Boton Apply no confirmado. Fit estimado 76."},
+{"empresa":"Combine Global Recruitment","titulo":"Senior Back-end Engineer (Ruby on Rails)","url":"https://www.careers-page.com/combine-global-recruitment/job/QV8YW39R","motivo":"LATAM incl. Colombia, horario EST, 6+ anos RoR; careers-page.com carga con JS y no se vio boton Apply ni fecha. Fit estimado 69."},
+{"empresa":"AssureSoft","titulo":"Senior Ruby on Rails Engineer","url":"https://remotive.com/remote/jobs/software-development/senior-ruby-on-rails-engineer-3833548","motivo":"LATAM segun Remotive (1 mes) y Arc (15 dias); el tablero propio assuresoft.com no renderiza la vacante."},
+{"empresa":"Dev.Pro","titulo":"Senior Full-Stack Ruby on Rails","url":"https://career.dev.pro/vacancy/55fa9f/","motivo":"LATAM, RoR+Hotwire (sin React); boton Apply y fecha no confirmados."}],
+"cerradas_detectadas":[
+{"empresa":"Ridepanda","titulo":"Desarrollador/a Senior de Software - Ruby on Rails / Next.js (Remoto para LATAM)","url":"https://jobs.generalcatalyst.com/companies/ridepanda/jobs/62181273-desarrollador-a-senior-de-software-ruby-on-rails-next-js-remoto-para-latam","motivo":"This job is no longer accepting applications"},
+{"empresa":"Cobre","titulo":"Greenhouse 4209361009","url":"https://job-boards.greenhouse.io/cobre/jobs/4209361009","motivo":"redirige a /cobre?error=true"},
+{"empresa":"Nearcut","titulo":"Senior Full Stack Dev Ruby on Rails the Rails Way","url":"https://weworkremotely.com/listings/nearcut-senior-rails-stimulus-dev-the-rails-way-2","motivo":"fecha limite 6-ene-2025 vencida"},
+{"empresa":"ForUsAll","titulo":"Sr. Ruby on Rails Engineer - AI","url":"https://app.trinethire.com/companies/281306-forusall/jobs/111571-sr-ruby-on-rails-engineer-ai","motivo":"currently not open for applications (ademas hibrido Medellin)"},
+{"empresa":"Mitre Media","titulo":"Tech Lead Full-Stack Rails Engineer (copia RubyOnRemote)","url":"https://rubyonremote.com/jobs/69791-tech-lead-full-stack-rails-engineer-at-mitre-media","motivo":"This job has expired"}],
+"descartadas_relevantes":[
+{"empresa":"Mitre Media","titulo":"Tech Lead Full-Stack Rails Engineer","motivo":"USA/Canada, zona ET +-3h, hibrido Toronto/NYC"},
+{"empresa":"Zipdev","titulo":"Senior Fullstack Engineer (ROR & JS)","motivo":"Workable abierta con Apply, pero sin pais ni fecha; elegibilidad desde Colombia no confirmada"},
+{"empresa":"Decile Group","titulo":"Senior Ruby on Rails Engineer (Remote)","motivo":"elegibilidad no indicada (VC de EE. UU.), sin fecha"},
+{"empresa":"Proxify","titulo":"Senior Ruby on Rails Developer (AI-Augmented Engineering)","motivo":"solo CET +-3h"},
+{"empresa":"Mon Ami","titulo":"Senior Rails Developer","motivo":"Remote United States"},
+{"empresa":"JAMS Software","titulo":"Senior Ruby on Rails Engineer","motivo":"North America"},
+{"empresa":"Rockstar","titulo":"Senior Rails Engineer","motivo":"beneficios de EE. UU. (401K), elegibilidad no confirmada, sin React"},
+{"empresa":"Lineate","titulo":"Software Engineer (Senior, Ruby-on-Rails)","motivo":"hibrido en Georgia"},
+{"empresa":"Workana Premium","titulo":"Senior Backend Developer (Ruby on Rails)","motivo":"solo residentes en Argentina"},
+{"empresa":"OnTheGoSystems","titulo":"Senior Ruby on Rails Developer","motivo":"horario EMEA"},
+{"empresa":"Toptal","titulo":"Senior Full Stack Engineer (Core AI)","motivo":"Next.js/Node/Supabase, sin Rails (fit < 60)"},
+{"empresa":"Coderio","titulo":"Senior Full-Stack Developer Node.js/React (LATAM)","motivo":"sin Rails (Node)"}],
+"fuentes_revisadas":["jobs.lever.co","job-boards.greenhouse.io","jobs.ashbyhq.com","apply.workable.com/jobs.workable.com","teamtailor","careers-page.com","weworkremotely.com","remotive.com","rubyonremote.com","jobs.gorails.com","hnhiring.com (nov 2026)","arc.dev","getonbrd.com","himalayas.app","computrabajo","jobs.generalcatalyst.com","trinethire"],
+"fuentes_fallidas":["jobs.lever.co/jobgether (client_error)","jobs.lever.co/padsplit (client_error)","jobicy.com (client_error)","assuresoft.com e_board (no renderiza)","jobs.ashbyhq.com (sin resultados)","himalayas (sin resultados propios)"]}
