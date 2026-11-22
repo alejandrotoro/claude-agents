@@ -1,20 +1,22 @@
 {
-  "actualizado": "2026-11-22T12:23:00-05:00",
+  "actualizado": "2026-11-22T13:23:00-05:00",
   "ultima_ejecucion": {
-    "fecha": "2026-11-22T12:23:00-05:00",
-    "modo": "rapido",
+    "fecha": "2026-11-22T13:23:00-05:00",
+    "modo": "completo",
     "resultado": "Sin novedades"
   },
   "notas": [
     "NOTA DE MANTENIMIENTO (2026-11-22T11:24-05:00): las notas de las corridas 1 a 17 se condensaron en los puntos de APRENDIZAJES OPERATIVOS de abajo para que cada corrida no cueste releer 20 mil caracteres. No se perdio ningun aprendizaje; lo que se quito fue la repeticion de 'modo rapido, nada aprobado, nada publicado'. El detalle de cada comentario sigue intacto en 'comentarios'.",
     "APRENDIZAJES OPERATIVOS — ACCESO: la tarea solo sirve con el computador de Alejo conectado (alejandros-macbook-pro-local, app de escritorio). Las corridas 1 a 3 (21 nov) salieron en la nube sin computador y no pudieron abrir Business Suite; desde la corrida 4 el arreglo funciona. Ojo: un disparo manual (fire_trigger) sale igualmente en la nube, asi que 'Require this computer' hay que verificarlo con una corrida programada normal.",
-    "APRENDIZAJES OPERATIVOS — CHROME: seleccionar siempre por deviceId, nunca por nombre (los nombres 'Browser 1'/'Browser 2' cambian entre corridas). El que SI tiene sesion en Business Suite es e62536a4-0478-426d-8bc7-7f0c1649d2eb; el otro (71f7c1b8-b8d2-47e9-a74a-30d817bfbcc6, visto el 21 nov) manda al login de Meta. Nunca iniciar sesion ni escribir contrasenas.",
+    "APRENDIZAJES OPERATIVOS — CHROME: seleccionar siempre por deviceId, nunca por nombre (los nombres 'Browser 1'/'Browser 2' cambian entre corridas). El que SI tiene sesion en Business Suite es e62536a4-0478-426d-8bc7-7f0c1649d2eb; el otro (71f7c1b8-b8d2-47e9-a74a-30d817bfbcc6, visto el 21 nov) manda al login de Meta. Nunca iniciar sesion ni escribir contrasenas. El 22 nov a la 1:23 p. m. aparecio UN SOLO navegador conectado (el bueno), asi que no hubo que elegir.",
     "APRENDIZAJES OPERATIVOS — BUSINESS SUITE: Instagram tiene 9 publicaciones con comentarios; Facebook una sola (el anuncio de empanadas congeladas del 13 oct). La bandeja de Instagram esta ordenada por ULTIMA ACTIVIDAD, asi que si la entrada mas reciente no cambio de fecha, ningun hilo se movio. Las respuestas a un comentario vienen colapsadas tras 'Ver respuestas (N)': hay que expandirlas para ver si quedo una respuesta de usuario sin contestar al final del hilo.",
+    "APRENDIZAJES OPERATIVOS — BADGE ROJO: el numero rojo junto a 'Comentarios de Instagram' NO significa comentario nuevo. El 22 nov marcaba '1' y el filtro 'No leidos' mostro que era la publicacion 'Semana tres: el pandebono' (19 oct), que dice 'Aun no hay comentarios de usuarios'. O sea: una publicacion sin comentarios puede quedar marcada como no leida. El filtro 'No leidos' resuelve la duda en dos clics y es mas barato que recorrer la bandeja.",
     "APRENDIZAJES OPERATIVOS — PATRON DE ALEJO: responde a mano y rapido los comentarios del dia (el post del sanduche del 21 nov quedo 100% atendido por el en horas), pero NO responde los correos del agente. Conclusion: el valor del agente esta en los atrasados de sep/oct, no en los comentarios del dia, y antes de publicar cualquier propuesta hay que reverificar que el comentario siga sin respuesta de la pagina.",
     "APRENDIZAJES OPERATIVOS — CONTEO DE PROPUESTAS: del correo del 21 nov 1:40 p. m. salieron 11 numeros, pero solo 9 son accionables (del 2 al 10). La numero 1 (lpaolad) y la numero 12 (valenciaga1982, propuesta en el correo de las 7:30 p. m.) quedaron OBSOLETAS porque Alejo las respondio a mano; la numero 11 nunca fue una propuesta, solo una nota de revision. La numeracion se mantiene entre correos para que 'publica la 3' no se vuelva ambiguo.",
     "APRENDIZAJES OPERATIVOS — FUERA DE ALCANCE: Business Suite muestra un banner rojo permanente 'Pago requerido — Los anuncios de tu cuenta publicitaria se pausaron porque no pudimos procesar tu ultimo pago'. La pauta esta PAUSADA por un cobro fallido. No se le ha avisado por correo porque no es parte de la tarea de comentarios y Alejo entra a Business Suite a diario; si en una proxima corrida sale correo, vale una linea.",
-    "BALANCE AL 2026-11-22: 9 propuestas vigentes esperando aprobacion (numeros 2 al 10, todas reverificadas sin respuesta de la pagina el 2026-11-22 a las 10:28-10:29) y CERO publicadas desde que arranco el agente. Ninguno de los tres correos enviados (21 nov 10:23, 13:40 y 19:30) tiene respuesta de Alejo.",
-    "2026-11-22T12:23:00-05:00 — Corridas 18 (hora 11) y 19 (hora 12), ambas domingo y en MODO RAPIDO, identicas: PASO 1 hecho, los TRES hilos de 'Comentarios de dieta' siguen con messageCount 1 y sin respuesta de Alejo. Nada aprobado pendiente, asi que las dos terminaron ahi: sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo. Proxima corrida en MODO COMPLETO: hoy a la 1:23 p. m."
+    "BALANCE AL 2026-11-22 (1:23 p. m.): 9 propuestas vigentes esperando aprobacion (numeros 2 al 10) y CERO publicadas desde que arranco el agente. Ninguno de los tres correos enviados (21 nov 10:23, 13:40 y 19:30) tiene respuesta de Alejo. Las de Instagram se reverificaron el 22 nov 10:28-10:29; la de Facebook (numero 10, Ligia Fonseca) se reverificio comentario por comentario el 22 nov 13:25 y sigue sin respuesta de la pagina.",
+    "2026-11-22T12:23:00-05:00 — Corridas 18 (hora 11) y 19 (hora 12), ambas domingo y en MODO RAPIDO, identicas: PASO 1 hecho, los TRES hilos de 'Comentarios de dieta' siguen con messageCount 1 y sin respuesta de Alejo. Nada aprobado pendiente, asi que las dos terminaron ahi: sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo.",
+    "2026-11-22T13:23:00-05:00 — Corrida 20, MODO COMPLETO. PASO 1: los tres hilos siguen con messageCount 1, sin respuesta de Alejo; nada aprobado que publicar. PASO 3: Chrome abierto. Instagram sin movimiento (la entrada mas reciente de la bandeja sigue siendo del sabado y el post del sanduche sigue en 10 comentarios, todos respondidos a mano); el badge rojo '1' resulto ser la publicacion del 19 oct sin comentarios de usuarios. Facebook reverificado comentario por comentario: Ligia Fonseca ('Son deliciosas.', hace 4 sem) SIGUE sin respuesta de la pagina, y Felipe Gonzalez quedo respondido a mano por Dieta el sabado. CERO comentarios nuevos, asi que no se mando correo. Proxima corrida completa: hoy 4:23 p. m."
   ],
   "comentarios": {
     "ig-sanduche-lpaolad-2": {
@@ -194,7 +196,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 10,
-      "verificado_sin_respuesta": "2026-11-22T10:29:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T13:25:00-05:00"
     },
     "fb-congeladas-felipegonzalez": {
       "red": "facebook",
@@ -206,7 +208,7 @@
       "estado": "ignorada",
       "enviada_el": null,
       "publicada_el": null,
-      "motivo": "Ya respondido a mano por la pagina Dieta. No se propone nada."
+      "motivo": "Ya respondido a mano por la pagina Dieta (visto el 2026-11-22: la respuesta es del sabado 21 nov). No se propone nada."
     }
   }
 }
