@@ -258,6 +258,11 @@ def tg(token: str, metodo: str, **data):
 
 def descubrir_chat(token: str):
     res = tg(token, "getUpdates", timeout=0, allowed_updates=json.dumps(["message"]))
+    if not res.get("ok"):
+        log("  alertas: Telegram rechazó el token:", res.get("error_code"), res.get("description"))
+        return None
+    me = tg(token, "getMe")
+    log(f"  alertas: bot @{(me.get('result') or {}).get('username')} con {len(res.get('result', []))} mensajes pendientes")
     for u in reversed(res.get("result", [])):
         msg = u.get("message") or {}
         chat = msg.get("chat") or {}
