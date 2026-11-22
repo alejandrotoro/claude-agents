@@ -124,3 +124,13 @@ _(reglas generales que Alejo dio al responder los correos)_
 - 2026-11-21 (16:27): Nombres que la gente ya propuso para el sánduche de pandebono,
   todos ya respondidos a mano: **Sanwafle** (lpaolad), **Bonowich** (lesliecasrod) y
   **Sandwichbono** (valenciaga1982). No volver a proponerles respuesta.
+- 2026-11-21 (19:30): En Business Suite las respuestas de un hilo vienen **colapsadas**
+  tras "Ver respuestas (N)". Hay que expandirlas una por una: ahí es donde se esconde
+  el caso más fácil de perder — el usuario contestó la pregunta de la página y esa
+  última respuesta quedó sin contestar. Así apareció el único comentario nuevo del día.
+- 2026-11-21 (19:30): El **nombre** del navegador cambia entre corridas (el mismo
+  deviceId `e62536a4-…` hoy sale como "Browser 2" y luego como "Browser 1"). Seleccionar
+  siempre por deviceId, nunca por nombre.
+- 2026-11-21 (19:30): La lista de la bandeja muestra **nombres reales**, no usuarios de
+  Instagram: "Lorena" en la lista es **valenciaga1982** (Lorena Valencia). No contarlo
+  como persona nueva.
