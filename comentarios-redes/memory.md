@@ -158,3 +158,12 @@ _(reglas generales que Alejo dio al responder los correos)_
   la pauta está pausada porque falló el último cobro. Queda fuera del alcance de este
   agente y no se notificó (Alejo entra a diario y lo ve), pero si sale correo conviene
   mencionarlo en una línea.
+- 2026-11-22 (13:25): El **número rojo** junto a "Comentarios de Instagram" NO significa
+  comentario nuevo. Marcaba "1" y resultó ser la publicación "Semana tres: el pandebono"
+  (19 oct), que dice "Aún no hay comentarios de usuarios". El filtro **"No leídos"**
+  (encima de la lista) resuelve la duda en dos clics y es mucho más barato que recorrer
+  la bandeja: hay que acordarse de volver a desactivarlo antes de seguir revisando.
+- 2026-11-22 (13:25): En Facebook, Dieta respondió a mano a **Felipe González** el sábado
+  21 nov, o sea que la mano también atiende Facebook, no solo Instagram. La de **Ligia
+  Fonseca** (propuesta 10) sigue sin respuesta — es la más vieja de la cola y la única
+  pendiente de esa red.
