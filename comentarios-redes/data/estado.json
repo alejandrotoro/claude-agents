@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-11-22T09:25:00-05:00",
+  "actualizado": "2026-11-22T10:30:00-05:00",
   "ultima_ejecucion": {
-    "fecha": "2026-11-22T09:25:00-05:00",
-    "modo": "rapido",
+    "fecha": "2026-11-22T10:30:00-05:00",
+    "modo": "completo",
     "resultado": "Sin novedades"
   },
   "notas": [
@@ -23,7 +23,9 @@
     "2026-11-22T07:40:00-05:00 — Corrida 14 (domingo, hora 7, MODO COMPLETO). PRIMERA CORRIDA DEL DIA 2. PASO 1: los TRES hilos de 'Comentarios de dieta' (10:23, 13:40 y 19:30 de ayer) siguen con messageCount 1 — Alejo no ha respondido ninguno, asi que no hay nada aprobado y no se publico nada. PASO 2 no aplica. PASO 3 (recorrido completo: las 9 publicaciones de Instagram con comentarios mas la de Facebook): CERO comentarios nuevos de usuarios. Unica novedad: la propuesta numero 12 (valenciaga1982 '@dieta_mzls tomate y lechuga') quedo OBSOLETA — dieta_mzls la respondio a mano hace ~10 h con 'nos encanta, a partir del lunes vas a tener las dos opciones! Cuando las pruebes nos cuentas que tal'. Se marca descartada. El post del sanduche quedo entonces 100% respondido a mano (10 comentarios, todos con respuesta de la pagina). Las 9 propuestas accionables del correo de la 1:40 p. m. (numeros 2 al 10) siguen SIN respuesta de la pagina y siguen vigentes: se reverificaron una por una. NO se envio correo porque no hay nada nuevo que proponer (regla del PASO 6). Balance acumulado: 9 propuestas vigentes esperando aprobacion y CERO publicadas desde que arranco el agente.",
     "2026-11-22T07:40:00-05:00 — Nota operativa: el patron de ayer se confirma. Alejo responde a mano los comentarios del dia (los del sanduche quedaron todos atendidos en horas) pero NO responde los correos del agente, asi que los atrasados de sep/oct siguen intactos. Mientras no llegue un 'publica la N', el agente no tiene nada que hacer salvo reverificar. Tambien util: esta corrida aparecio un solo Chrome conectado, deviceId e62536a4-0478-426d-8bc7-7f0c1649d2eb, llamado 'Browser 1' e inUse=true.",
     "2026-11-22T08:25:00-05:00 — Corrida 15 (domingo, hora 8, MODO RAPIDO). PASO 1 hecho: los TRES hilos de 'Comentarios de dieta' (10:23, 13:40 y 19:30 de ayer) siguen con messageCount 1 — Alejo no ha respondido ninguno. Nada aprobado pendiente, asi que la corrida termina aqui sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo. Siguen vigentes las 9 propuestas accionables del correo de la 1:40 p. m. de ayer (numeros 2 al 10) y CERO publicadas desde que arranco el agente. Proxima corrida en MODO COMPLETO: hoy a las 10:23 a. m.",
-    "2026-11-22T09:25:00-05:00 — Corrida 16 (domingo, hora 9, MODO RAPIDO). PASO 1 hecho: los TRES hilos de 'Comentarios de dieta' (10:23, 13:40 y 19:30 de ayer) siguen con messageCount 1 — Alejo no ha respondido ninguno. Nada aprobado pendiente, asi que la corrida termina aqui sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo. Siguen vigentes las 9 propuestas accionables del correo de la 1:40 p. m. de ayer (numeros 2 al 10) y CERO publicadas desde que arranco el agente. Proxima corrida en MODO COMPLETO: hoy a las 10:23 a. m. — ahi toca reverificar en Business Suite cuales de las 9 siguen sin respuesta y buscar comentarios nuevos del domingo."
+    "2026-11-22T09:25:00-05:00 — Corrida 16 (domingo, hora 9, MODO RAPIDO). PASO 1 hecho: los TRES hilos de 'Comentarios de dieta' (10:23, 13:40 y 19:30 de ayer) siguen con messageCount 1 — Alejo no ha respondido ninguno. Nada aprobado pendiente, asi que la corrida termina aqui sin abrir Chrome, sin buscar comentarios nuevos y sin mandar correo. Siguen vigentes las 9 propuestas accionables del correo de la 1:40 p. m. de ayer (numeros 2 al 10) y CERO publicadas desde que arranco el agente. Proxima corrida en MODO COMPLETO: hoy a las 10:23 a. m. — ahi toca reverificar en Business Suite cuales de las 9 siguen sin respuesta y buscar comentarios nuevos del domingo.",
+    "2026-11-22T10:30:00-05:00 — Corrida 17 (domingo, hora 10, MODO COMPLETO). PASO 1: los TRES hilos de 'Comentarios de dieta' siguen con messageCount 1 — Alejo no ha respondido ninguno, asi que nada aprobado y nada publicado. PASO 2 no aplica. PASO 3: se entro a Business Suite (un solo Chrome conectado, deviceId e62536a4-0478-426d-8bc7-7f0c1649d2eb, 'Browser 1', inUse=true). CERO comentarios nuevos de usuarios en las dos redes. Instagram: la bandeja esta ordenada por ULTIMA ACTIVIDAD y la entrada mas reciente sigue siendo el post del sanduche con 'Sab' — nada del domingo, o sea que ningun hilo se movio desde ayer. El post del sanduche sigue en 10 comentarios (mismo numero que a las 7:40, cuando se verifico que estaban todos respondidos a mano), asi que no hizo falta reexpandir los hilos colapsados. Facebook: la unica publicacion sigue con 3 comentarios; 'Tienen guiso?' de Felipe respondido por la pagina y 'Son deliciosas.' de Ligia Fonseca SIGUE sin respuesta (propuesta 10 vigente). Las 9 propuestas accionables (numeros 2 al 10) siguen vigentes. NO se envio correo (regla del PASO 6: nada nuevo que proponer). Balance acumulado: 9 propuestas vigentes y CERO publicadas.",
+    "2026-11-22T10:30:00-05:00 — Hallazgo fuera del alcance del agente, anotado por si sirve: Business Suite muestra un banner rojo permanente 'Pago requerido — Los anuncios de tu cuenta publicitaria se pausaron porque no pudimos procesar tu ultimo pago'. O sea que la pauta esta PAUSADA por un cobro fallido. No se le mando correo ni notificacion a Alejo porque esto no es parte de la tarea de comentarios y el entra a Business Suite todos los dias a responder a mano, asi que lo mas probable es que ya lo haya visto. Si en una proxima corrida sale correo, vale la pena mencionarlo en una linea."
   ],
   "comentarios": {
     "ig-sanduche-lpaolad-2": {
@@ -87,7 +89,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 2,
-      "verificado_sin_respuesta": "2026-11-22T07:36:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:28:00-05:00"
     },
     "ig-paraLlevar-torogonzalezuriel": {
       "red": "instagram",
@@ -100,7 +102,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 3,
-      "verificado_sin_respuesta": "2026-11-22T07:31:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:28:00-05:00"
     },
     "ig-sejuzga-naty_duque12": {
       "red": "instagram",
@@ -113,7 +115,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 4,
-      "verificado_sin_respuesta": "2026-11-22T07:32:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:28:00-05:00"
     },
     "ig-semanados-halloween_community_": {
       "red": "instagram",
@@ -138,7 +140,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 5,
-      "verificado_sin_respuesta": "2026-11-22T07:33:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:28:00-05:00"
     },
     "ig-terranova-torogonzalezuriel": {
       "red": "instagram",
@@ -151,7 +153,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 6,
-      "verificado_sin_respuesta": "2026-11-22T07:34:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:28:00-05:00"
     },
     "ig-cajita-geral_7313": {
       "red": "instagram",
@@ -164,7 +166,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 7,
-      "verificado_sin_respuesta": "2026-11-22T07:35:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:28:00-05:00"
     },
     "ig-antojo-naty_duque12": {
       "red": "instagram",
@@ -177,7 +179,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 8,
-      "verificado_sin_respuesta": "2026-11-22T07:35:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:28:00-05:00"
     },
     "ig-antojo-geral_7313": {
       "red": "instagram",
@@ -190,7 +192,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 9,
-      "verificado_sin_respuesta": "2026-11-22T07:35:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:28:00-05:00"
     },
     "fb-congeladas-ligiafonseca": {
       "red": "facebook",
@@ -203,7 +205,7 @@
       "enviada_el": "2026-11-21",
       "publicada_el": null,
       "numero_en_correo": 10,
-      "verificado_sin_respuesta": "2026-11-22T07:38:00-05:00"
+      "verificado_sin_respuesta": "2026-11-22T10:29:00-05:00"
     },
     "fb-congeladas-felipegonzalez": {
       "red": "facebook",
