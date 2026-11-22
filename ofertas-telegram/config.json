@@ -1,0 +1,16 @@
+{
+ "canales": ["DescuentosHome", "DescuentosTech"],
+ "dias_backfill": 2,
+ "dias_guardados": 120,
+ "alertas": {
+  "activas": true,
+  "solo_con_cupon": true,
+  "min_descuento": 0,
+  "categorias_excluidas": [],
+  "solo_categorias": [],
+  "tiendas": [],
+  "palabras_excluidas": [],
+  "con_foto": true,
+  "max_por_corrida": 40
+ }
+}
