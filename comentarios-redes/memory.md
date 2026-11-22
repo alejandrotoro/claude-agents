@@ -167,3 +167,8 @@ _(reglas generales que Alejo dio al responder los correos)_
   21 nov, o sea que la mano también atiende Facebook, no solo Instagram. La de **Ligia
   Fonseca** (propuesta 10) sigue sin respuesta — es la más vieja de la cola y la única
   pendiente de esa red.
+- 2026-11-22 (16:25): El atajo también sirve en **Facebook**: la bandeja muestra
+  "N reacciones · N comentarios · fecha" y la fecha de última actividad del hilo. Si el
+  conteo y esa fecha no cambiaron, no hay que abrir nada. Con eso, un MODO COMPLETO sin
+  novedades son 4 llamadas al navegador (navegar + un `get_page_text` por pestaña) y
+  cero hilos abiertos.
