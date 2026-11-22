@@ -1,0 +1,12 @@
+{
+ "ultimo_id": {
+  "DescuentosHome": 28681,
+  "DescuentosTech": 54457
+ },
+ "ultima_ejecucion": {
+  "fecha": "2026-11-22T17:19:02-05:00",
+  "nuevas": 166,
+  "alertas": 0,
+  "errores": []
+ }
+}
