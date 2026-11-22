@@ -145,3 +145,16 @@ _(reglas generales que Alejo dio al responder los correos)_
 - 2026-11-22 (07:40): Un clic en Business Suite puede fallar con "Could not verify this
   site's safety category. Blocking as a precaution". No es un bloqueo real: se reintenta
   el mismo clic una vez y pasa.
+- 2026-11-22 (10:30): **Atajo para saber en 30 segundos si hay algo nuevo.** La bandeja
+  de comentarios está ordenada por *última actividad*, no por fecha de publicación. Si
+  la entrada de arriba no tiene la fecha de hoy, ningún hilo se movió desde la corrida
+  anterior y no hay comentarios nuevos ni respuestas a mano nuevas. Un `get_page_text`
+  de la pestaña de Instagram basta para verlo.
+- 2026-11-22 (10:30): El encabezado de cada publicación trae "N comentarios". Si ese
+  número no cambió desde la última corrida que ya verificó el hilo completo, no hace
+  falta volver a expandir los "Ver respuestas (N)" colapsados. Sirve para no repetir
+  el recorrido caro en cada MODO COMPLETO.
+- 2026-11-22 (10:30): Business Suite muestra un banner rojo fijo **"Pago requerido"**:
+  la pauta está pausada porque falló el último cobro. Queda fuera del alcance de este
+  agente y no se notificó (Alejo entra a diario y lo ve), pero si sale correo conviene
+  mencionarlo en una línea.
