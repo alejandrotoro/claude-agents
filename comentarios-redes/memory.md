@@ -2,7 +2,8 @@
 
 Panadería "dieta." en Manizales, Colombia.
 Instagram **@dieta_mzls** · Página de Facebook **"Dieta"**.
-Corre cada 3 horas, 7 a. m. – 7 p. m. (hora Bogotá).
+Corre cada hora, 7 a. m. – 8 p. m. (hora Bogotá): modo completo a las 7, 10, 13, 16 y 19;
+modo rápido el resto.
 
 > Lo que digan **Decisiones** y **Correcciones** manda sobre las instrucciones del agente.
 
@@ -134,3 +135,13 @@ _(reglas generales que Alejo dio al responder los correos)_
 - 2026-11-21 (19:30): La lista de la bandeja muestra **nombres reales**, no usuarios de
   Instagram: "Lorena" en la lista es **valenciaga1982** (Lorena Valencia). No contarlo
   como persona nueva.
+- 2026-11-22 (07:40): El post del sánduche quedó **100% respondido a mano** (10
+  comentarios, todos con respuesta de dieta_mzls, el último hacia las 9:40 p. m. del
+  sábado). Ya no hay nada que proponer ahí: el hilo del lanzamiento se cerró solo.
+- 2026-11-22 (07:40): Patrón confirmado en dos días: Alejo **responde los comentarios
+  del día a mano pero no responde los correos del agente**. Resultado: los atrasados de
+  sep/oct siguen intactos y van 9 propuestas vigentes con cero publicadas. Mientras no
+  llegue un "publica la N", en MODO COMPLETO el trabajo real es solo reverificar.
+- 2026-11-22 (07:40): Un clic en Business Suite puede fallar con "Could not verify this
+  site's safety category. Blocking as a precaution". No es un bloqueo real: se reintenta
+  el mismo clic una vez y pasa.
