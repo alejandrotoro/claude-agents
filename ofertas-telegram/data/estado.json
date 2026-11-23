@@ -1,11 +1,12 @@
 {
  "ultimo_id": {
-  "DescuentosHome": 28681,
-  "DescuentosTech": 54457
+  "DescuentosHome": 28685,
+  "DescuentosTech": 54457,
+  "CuponesYDescuentosCo": 70521
  },
  "ultima_ejecucion": {
-  "fecha": "2026-11-22T17:48:16-05:00",
-  "nuevas": 0,
+  "fecha": "2026-11-22T21:11:21-05:00",
+  "nuevas": 327,
   "alertas": 0,
   "errores": []
  },
