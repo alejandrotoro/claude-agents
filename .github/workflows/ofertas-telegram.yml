@@ -2,7 +2,7 @@ name: ofertas-telegram
 
 on:
   schedule:
-    - cron: "7 * * * *"   # cada hora, al minuto 7 (UTC)
+    - cron: 23 * * * *
   workflow_dispatch: {}
 
 permissions:
