@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T05:56:12-05:00",
+ "actualizado": "2026-11-23T17:45:01-05:00",
  "hoy": "2026-11-23",
  "canales": [
   "DescuentosHome",
@@ -15,8 +15,8 @@
  ],
  "resumen": {
   "2026-11-23": {
-   "total": 3,
-   "con_cupon": 1
+   "total": 151,
+   "con_cupon": 49
   },
   "2026-11-22": {
    "total": 40,
