@@ -2,8 +2,11 @@ name: ofertas-telegram
 
 on:
   schedule:
-    - cron: 23 * * * *
+    - cron: "23 * * * *"   # cada hora, al minuto 23 (UTC); GitHub a veces no lo dispara
   workflow_dispatch: {}
+  push:                    # respaldo: una tarea de Claude actualiza tick.txt cada hora
+    branches: [main]
+    paths: ["ofertas-telegram/tick.txt"]
 
 permissions:
   contents: write
