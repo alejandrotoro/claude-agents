@@ -172,3 +172,14 @@ _(reglas generales que Alejo dio al responder los correos)_
   conteo y esa fecha no cambiaron, no hay que abrir nada. Con eso, un MODO COMPLETO sin
   novedades son 4 llamadas al navegador (navegar + un `get_page_text` por pestaña) y
   cero hilos abiertos.
+- 2026-11-22 (19:23): Dos detalles de navegación que cuestan llamadas. (1) Al entrar al
+  inbox, el primer `get_page_text` sale casi vacío (solo el menú lateral) porque el panel
+  aún no cargó: conviene ir directo a `screenshot`, que además muestra el encabezado con
+  "N comentarios". (2) El clic en "Comentarios de Instagram" deja la URL en
+  `/inbox/instagram?…&thread_type=INSTAGRAM_POST`, que parece la pestaña de mensajes
+  directos pero NO lo es — hay que confirmar por pantalla cuál pestaña quedó resaltada,
+  nunca por la URL.
+- 2026-11-22 (19:23): Cierre del domingo. 25 corridas en el día, cero comentarios nuevos
+  en las dos redes y ningún correo enviado. El lunes 23 es el **lanzamiento del sánduche
+  de pandebono**: se espera movimiento real, así que la corrida de las 7:23 a. m. conviene
+  hacerla completa y sin confiar en el atajo de "última actividad".
