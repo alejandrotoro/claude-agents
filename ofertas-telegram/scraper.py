@@ -369,6 +369,15 @@ def enviar_alertas(nuevas: list[dict], estado: dict, reglas: dict):
     return enviadas
 
 
+# ---------------------------------------------------------------- duplicados entre canales
+def clave(o: dict) -> str:
+    """Misma oferta publicada en varios canales: mismo código, o mismo título y precio."""
+    if o.get("codigo"):
+        return "c:" + o["codigo"]
+    t = re.sub(r"[^a-z0-9]", "", (o.get("titulo") or "").lower())[:50]
+    return f"t:{t}:{o.get('precio')}"
+
+
 # ---------------------------------------------------------------- archivos
 def leer_json(p: Path, defecto):
     try:
@@ -399,6 +408,7 @@ def main():
     desde = ahora - timedelta(days=int(cfg.get("dias_backfill", 2)) if primera_vez else 4)
 
     nuevas, errores = [], []
+    canales_nuevos = {c for c in canales if not ultimos.get(c)}
     sesion = requests.Session()
     for canal in canales:
         try:
@@ -412,6 +422,24 @@ def main():
         if msgs:
             ultimos[canal] = max(ultimos.get(canal, 0), max(m["num"] for m in msgs))
         nuevas.extend(msgs)
+
+    # quitar duplicados (misma oferta en varios canales); gana el canal que va primero en config.json
+    orden = {c: i for i, c in enumerate(canales)}
+    nuevas.sort(key=lambda o: (orden.get(o["canal"], 99), o["ts"]))
+    vistas: dict[str, set] = {}
+    unicas = []
+    for o in nuevas:
+        if o["fecha"] not in vistas:
+            prev = leer_json(DIAS / f"{o['fecha']}.json", {"ofertas": []})
+            vistas[o["fecha"]] = {clave(x) for x in prev.get("ofertas", [])}
+        k = clave(o)
+        if k in vistas[o["fecha"]]:
+            continue
+        vistas[o["fecha"]].add(k)
+        unicas.append(o)
+    if len(unicas) != len(nuevas):
+        log(f"  duplicados omitidos: {len(nuevas) - len(unicas)}")
+    nuevas = unicas
 
     # guardar por día
     por_dia: dict[str, list] = {}
@@ -447,10 +475,10 @@ def main():
     })
 
     # alertas (en la primera corrida solo lo de las últimas 2 horas para no inundar)
-    para_alertar = nuevas
-    if primera_vez:
-        lim = ahora - timedelta(hours=2)
-        para_alertar = [o for o in nuevas if datetime.fromisoformat(o["ts"]) >= lim]
+    # y lo mismo para un canal recién agregado a config.json
+    lim = ahora - timedelta(hours=2)
+    para_alertar = [o for o in nuevas
+                    if not (primera_vez or o["canal"] in canales_nuevos) or datetime.fromisoformat(o["ts"]) >= lim]
     try:
         n = enviar_alertas(para_alertar, estado, reglas)
     except Exception as e:

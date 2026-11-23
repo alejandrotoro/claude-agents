@@ -1,5 +1,9 @@
 {
- "canales": ["DescuentosHome", "DescuentosTech"],
+ "canales": [
+  "DescuentosHome",
+  "DescuentosTech",
+  "CuponesYDescuentosCo"
+ ],
  "dias_backfill": 2,
  "dias_guardados": 120,
  "alertas": {
