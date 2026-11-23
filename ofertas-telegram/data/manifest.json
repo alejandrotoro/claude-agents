@@ -1,20 +1,25 @@
 {
- "actualizado": "2026-11-22T22:54:07-05:00",
- "hoy": "2026-11-22",
+ "actualizado": "2026-11-23T05:56:12-05:00",
+ "hoy": "2026-11-23",
  "canales": [
   "DescuentosHome",
   "DescuentosTech",
   "CuponesYDescuentosCo"
  ],
  "dias": [
+  "2026-11-23",
   "2026-11-22",
   "2026-11-21",
   "2026-11-20",
   "2026-11-19"
  ],
  "resumen": {
+  "2026-11-23": {
+   "total": 3,
+   "con_cupon": 1
+  },
   "2026-11-22": {
-   "total": 39,
+   "total": 40,
    "con_cupon": 5
   },
   "2026-11-21": {
