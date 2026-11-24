@@ -183,3 +183,14 @@ _(reglas generales que Alejo dio al responder los correos)_
   en las dos redes y ningún correo enviado. El lunes 23 es el **lanzamiento del sánduche
   de pandebono**: se espera movimiento real, así que la corrida de las 7:23 a. m. conviene
   hacerla completa y sin confiar en el atajo de "última actividad".
+- 2026-11-23: El lunes del lanzamiento del sánduche **no generó ni un comentario nuevo**
+  en ninguna de las dos redes. El producto salió, la gente no comentó: el movimiento del
+  21 nov fue por la publicación del nombre, no por el producto en sí.
+- 2026-11-24 (10:32): En el encabezado del post hay **dos conteos y solo importa el de
+  comentarios**. El post del sánduche pasó de "26 Me gusta" a "28 Me gusta" en tres horas
+  sin moverse de "10 comentarios": siguen llegando likes, no conversación. No confundir
+  un cambio de likes con actividad que haya que revisar.
+- 2026-11-24 (10:32): Las coordenadas de la barra de pestañas **cambian incluso dentro
+  del mismo día** (7:23 a. m.: frame 1568x734, pestañas en y=63; 10:25 a. m.: frame
+  1512x738, Facebook en (702,103) e Instagram en (913,103)). Sacarlas siempre del
+  screenshot de esa corrida, nunca de la corrida anterior.
