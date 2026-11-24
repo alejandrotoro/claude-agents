@@ -59,7 +59,7 @@ WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: p
 - Colombia/LATAM: Get on Board (getonbrd.com), LinkedIn Jobs (solo lo público vía buscador), Indeed Colombia, Jooble Colombia, elempleo, Computrabajo, Torre.
 ### Rotación por día de la semana (además del núcleo)
 - Lunes: casas de software/nearshore A — Koombea, Ideaware, FullStack Labs, Truelogic, Blue Coding, Nearsure, Nortal.
-- Martes: casas de software B — Zarego, ioet, Encora, CI&T, EX Squared, Monks, Imagemaker, Rootstrap, WyeWorks, Moove It, Codeminer42.
+- Martes: casas de software B — Zarego, ioet, Encora, CI&T, EX Squared, Monks, Imagemaker, Rootstrap, WyeWorks, Moove It (ahora Qubika), Codeminer42, Oceans Code Experts.
 - Miércoles: marketplaces con vetting (pago USD) — Turing, Toptal, Arc.dev, Lemon.io, Revelo, Howdy, Terminal, Andela, Proxify, Index.dev, A.Team, Gun.io (reportar como "marketplace": requieren registro/vetting).
 - Jueves: empresas de producto con Rails que contratan LATAM — Donorbox, Recurly (Medellín), Ridepanda, GitLab, Buk, Workana B2B, Amplemarket, Wonolo, SerpApi (serpapi.com/careers), Sur (apply.workable.com/surglobal), Devlane, Monterail (freelance), Toptal equipo interno (jobs.lever.co/toptal), Zipdev (Workable), y las que aparezcan en "Aprendizajes".
 - Viernes: casas de software C — BairesDev (solo roles Senior/Lead de Ruby; sus avisos "evergreen" se repiten: reportar uno solo), Globant, Endava, Wizeline, Applaudo, Gorilla Logic, Jobsity, Scopic, MAS Global, Parrolabs, iDelsoft, Darwoft, AssureSoft, Dev.Pro.
@@ -91,3 +91,6 @@ WebFetch solo abre URLs que hayan salido en un WebSearch de esa misma corrida: p
 - 2026-11-23: Truelogic ya no usa Greenhouse: su tablero vivo es jobs.truelogic.io (también jobs.ashbyhq.com/truelogic, que da client_error). El 23-nov no tenía ningún rol Ruby/Rails; sus avisos Ruby en Built In/Greenhouse están cerrados. Sus páginas de vacante solo abren si salieron antes en un WebSearch.
 - 2026-11-23: Toptal replica sus vacantes internas en toptal.com/careers/<slug> (p. ej. sr-fs-engineer = Billing): úsalo como corroboración del tablero vivo. api.lever.co/v0/postings/<empresa> es demasiado grande para WebFetch.
 - 2026-11-23: Ideaware: su cuenta JazzHR (ideaware.applytojob.com) muestra "This account is no longer active" en algunos avisos; tratar sus enlaces JazzHR como dudosos.
+- 2026-11-24: Rootstrap publica en rootstrap.peopleforce.io (enlazado desde rootstrap.com/careers); su Greenhouse sigue listando roles viejos (Sr RoR removido en Built In en ene-2026): priorizar PeopleForce. Moove It redirige a qubika.com/mooveit; WyeWorks no expone tablero de empleos.
+- 2026-11-24: Codeminer42 tiene tablero propio con formulario (codeminer42.com/careers, rol RoR LatAm). Oceans Code Experts (careers-page.com/oceans-code-experts) publica RoR + React TS para toda LatAm con horario flexible: agregados a la rotación del martes.
+- 2026-11-24: Las páginas de Working Nomads y Built In muestran el estado real ("listing has expired", "job was removed"): útiles para descartar rápido.
