@@ -194,3 +194,18 @@ _(reglas generales que Alejo dio al responder los correos)_
   del mismo día** (7:23 a. m.: frame 1568x734, pestañas en y=63; 10:25 a. m.: frame
   1512x738, Facebook en (702,103) e Instagram en (913,103)). Sacarlas siempre del
   screenshot de esa corrida, nunca de la corrida anterior.
+- 2026-11-24 (19:26): **Lectura barata de la bandeja.** Con el `screenshot` a scale 0.6
+  los conteos y las fechas salen borrosos, pero no hace falta repetirlo a escala 1: dos
+  `zoom` resuelven la red entera — el encabezado del hilo (x 330-1350, y 95-135) para
+  "N Me gusta · N comentarios · fecha", y la columna de la lista (x 50-320, y 140-620)
+  para las diez entradas con su fecha de última actividad. Un MODO COMPLETO sin novedades
+  queda en ~8 llamadas al navegador y cero hilos abiertos.
+- 2026-11-24 (19:26): Cierre del martes. Cinco corridas completas, cero comentarios
+  nuevos en las dos redes, ningún correo. Van **cuatro días seguidos (21–24 nov) sin un
+  solo comentario nuevo** y siete días sin que Alejo conteste los correos: las 9
+  propuestas de sep/oct siguen sin publicar. Ese día se mandó la **primera notificación
+  push** avisando del bloqueo; no repetirla en corridas siguientes.
+- 2026-11-24: Nota sobre los SHA de GitHub: `get_file_contents` devuelve **dos** SHA —
+  el del commit (en la URI del recurso) y el **blob SHA** del archivo (en la línea
+  "successfully downloaded text file (SHA: …)"). `create_or_update_file` solo acepta el
+  **blob SHA**; con el del commit responde "SHA mismatch / stale".
