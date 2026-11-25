@@ -1,0 +1,27 @@
+{"fecha":"2026-11-25","grupo_rotacion":"Miércoles: marketplaces con vetting","enviadas":[],
+"no_verificadas":[
+{"empresa":"Bluelight Consulting","titulo":"Ruby on Rails Engineer - Remote, Latin America","url":"https://jobs.lever.co/bluelightconsulting/54b5ca9a-601e-41bd-b46d-566a8e387f81","motivo":"Página viva con enlace 'apply for this job' y sin texto de cierre, pero no aparece en la parte legible de la raíz jobs.lever.co/bluelightconsulting (247k caracteres, solo leída en parte). Rails + AWS + GenAI, 5+ años Rails, full-time, horario flexible, sin salario. Fit estimado 72."},
+{"empresa":"Toptal (marketplace freelance)","titulo":"Remote Senior Ruby-on-Rails Developer Job to Maintain our Platform (Full-Time)","url":"https://www.toptal.com/freelance-jobs/developers/ruby-on-rails/senior-rails-developer-for-our-platform-186","motivo":"Marketplace (requiere registro/vetting). Freelance 3-6 meses, cliente en Nueva York, sin fecha ni país; sin botón de aplicar en el texto extraído. Fit estimado 63."},
+{"empresa":"Jobgether","titulo":"Senior Software Engineer (Rails)","url":"https://jobs.lever.co/jobgether/b35766cb-fd7f-4aae-a59e-327d6435c643/apply","motivo":"WebFetch devolvió client_error (puede estar cerrada)."},
+{"empresa":"Jobgether","titulo":"Senior Software Engineer (Ruby on Rails)","url":"https://jobs.lever.co/jobgether/72259aaf-45f6-4e2e-938f-62a17816892d/apply","motivo":"WebFetch devolvió client_error."},
+{"empresa":"Bluelight Consulting","titulo":"Ruby Developer - Full-time, Remote","url":"https://jobs.lever.co/bluelightconsulting/139bc22a-591a-42e5-a7f2-a16ce6e1568d","motivo":"Ubicación Palmira (Colombia), sin botón de aplicar en el texto extraído y no confirmada en la raíz del tablero."},
+{"empresa":"Toptal","titulo":"Senior Full-stack Engineer (Marketplace One)","url":"https://jobs.lever.co/toptal/48deeb6e-927f-4f07-bd4d-c605e2bb862e","motivo":"Sigue cargando (South America, Central America; RoR + React) pero sin evidencia de botón Apply; ya reportada como no verificada en días anteriores."}
+],
+"cerradas_detectadas":[
+{"empresa":"Launchpad Technologies","titulo":"Senior Web Full-Stack Developer","url":"https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4558124006","motivo":"La página aún muestra formulario, pero NO aparece en la raíz del tablero (6 vacantes, todas talent community/otras)."},
+{"empresa":"Launchpad Technologies","titulo":"Lead Software Engineer","url":"https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4419211006","motivo":"No aparece en la raíz del tablero."},
+{"empresa":"South Geeks","titulo":"Staff Software Engineer (AI-Native Full-Stack)","url":"https://rubyonremote.com/jobs/74038-staff-software-engineer-ai-native-full-stack-at-south-geeks","motivo":"Ruby on Remote: 'This job has expired'. Además no es Rails/React."},
+{"empresa":"Flatirons Development","titulo":"Senior Ruby on Rails / React Engineer - LATAM","url":"https://rubyonremote.com/jobs/64369-senior-ruby-on-rails-react-engineer-latam-at-flatirons-development","motivo":"Ruby on Remote: 'This job has expired'."},
+{"empresa":"Azumo","titulo":"Ruby on Rails Engineer - Latin America - Remote","url":"https://builtin.com/job/ruby-rails-engineer-latin-america-remote/4672926","motivo":"Built In: removida el 10-oct-2025."}
+],
+"descartadas_relevantes":[
+{"empresa":"DealMaker","titulo":"Senior Software Engineer","motivo":"Medellín híbrido (no remoto 100 %)."},
+{"empresa":"Gorilla Logic","titulo":"Senior Fullstack Engineer (RoR) - AA, Remote: Colombia - Costa Rica","motivo":"Solo en Arc, publicada hace ~3 meses (>30 días), sin tablero propio verificable."},
+{"empresa":"Toptal","titulo":"Senior Full-stack Engineer (Platform Foundation)","motivo":"Solo Eastern Europe; stack Node/React."},
+{"empresa":"Toptal","titulo":"Tech Lead","motivo":"Sin ubicación; arquitecto backend, Rails solo como opción."},
+{"empresa":"Toptal (vía WWR)","titulo":"Senior Full Stack Engineer — Insurtech Platform | Remote, Colombia","motivo":"Stack Python/Temporal, sin Rails ni React."},
+{"empresa":"Fountain","titulo":"Software Engineer","motivo":"Guadalajara híbrido, stack Node/React."},
+{"empresa":"Curotec","titulo":"Software Engineer (Ruby on Rails)","motivo":"Sin botón de aplicar visible, rol mixto Rails/Java/Go sin frontend; no senior explícito."}
+],
+"fuentes_revisadas":["jobs.lever.co (site:)","job-boards.greenhouse.io (site:)","jobs.ashbyhq.com (site:)","apply.workable.com (site:)","teamtailor (site:)","Turing","Arc.dev","Lemon.io/Howdy/Revelo (búsqueda)","Proxify/Andela/Index.dev (búsqueda)","Toptal careers + Toptal freelance","We Work Remotely","Himalayas","Ruby on Remote","GoRails jobs","Get on Board","Remotive","Built In","Bluelight Consulting (Lever)","Launchpad Technologies (Greenhouse)","Fountain (Greenhouse)","DealMaker (Lever)","Curotec (Recruitee)"],
+"fuentes_fallidas":["jobs.lever.co/jobgether (client_error)","remotive.com/remote/jobs/... (client_error)","remote.io (client_error)","job-boards.greenhouse.io/fountain-mx (3 de 5 client_error)"]}
