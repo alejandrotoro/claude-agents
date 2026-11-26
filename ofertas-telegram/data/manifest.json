@@ -1,12 +1,13 @@
 {
- "actualizado": "2026-11-25T17:37:55-05:00",
- "hoy": "2026-11-25",
+ "actualizado": "2026-11-26T00:12:15-05:00",
+ "hoy": "2026-11-26",
  "canales": [
   "DescuentosHome",
   "DescuentosTech",
   "CuponesYDescuentosCo"
  ],
  "dias": [
+  "2026-11-26",
   "2026-11-25",
   "2026-11-24",
   "2026-11-23",
@@ -16,9 +17,13 @@
   "2026-11-19"
  ],
  "resumen": {
+  "2026-11-26": {
+   "total": 2,
+   "con_cupon": 0
+  },
   "2026-11-25": {
-   "total": 114,
-   "con_cupon": 18
+   "total": 167,
+   "con_cupon": 32
   },
   "2026-11-24": {
    "total": 187,
@@ -39,10 +44,6 @@
   "2026-11-20": {
    "total": 227,
    "con_cupon": 48
-  },
-  "2026-11-19": {
-   "total": 134,
-   "con_cupon": 12
   }
  },
  "errores": []
