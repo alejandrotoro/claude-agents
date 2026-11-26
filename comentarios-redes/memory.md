@@ -46,8 +46,9 @@ Publicar de más es el peor error; esperar una corrida más no le cuesta nada a 
 ### Datos SIN confirmar (no inventar)
 Horarios de atención, cobertura y costo de domicilio, precios unitarios distintos
 al paquete de empanadas congeladas, ingredientes y alérgenos, precios de combos
-navideños, precios de refrigerios empresariales, cómo quedó la receta de natilla
-(con coco o sin coco) después del voto del 15 de noviembre.
+navideños, precios de refrigerios empresariales, **precio de la natilla con dos
+buñuelos**, cómo quedó la receta de natilla (con coco o sin coco) después del voto
+del 15 de noviembre.
 Si un comentario pregunta algo de esta lista: dejar `<CONFIRMAR: …>` en la propuesta
 y pedírselo a Alejo en el correo.
 
@@ -157,7 +158,7 @@ _(reglas generales que Alejo dio al responder los correos)_
 - 2026-11-22 (10:30): Business Suite muestra un banner rojo fijo **"Pago requerido"**:
   la pauta está pausada porque falló el último cobro. Queda fuera del alcance de este
   agente y no se notificó (Alejo entra a diario y lo ve), pero si sale correo conviene
-  mencionarlo en una línea.
+  mencionarlo en una línea. (Desde el 25 nov ese banner ya no aparece.)
 - 2026-11-22 (13:25): El **número rojo** junto a "Comentarios de Instagram" NO significa
   comentario nuevo. Marcaba "1" y resultó ser la publicación "Semana tres: el pandebono"
   (19 oct), que dice "Aún no hay comentarios de usuarios". El filtro **"No leídos"**
@@ -179,10 +180,6 @@ _(reglas generales que Alejo dio al responder los correos)_
   `/inbox/instagram?…&thread_type=INSTAGRAM_POST`, que parece la pestaña de mensajes
   directos pero NO lo es — hay que confirmar por pantalla cuál pestaña quedó resaltada,
   nunca por la URL.
-- 2026-11-22 (19:23): Cierre del domingo. 25 corridas en el día, cero comentarios nuevos
-  en las dos redes y ningún correo enviado. El lunes 23 es el **lanzamiento del sánduche
-  de pandebono**: se espera movimiento real, así que la corrida de las 7:23 a. m. conviene
-  hacerla completa y sin confiar en el atajo de "última actividad".
 - 2026-11-23: El lunes del lanzamiento del sánduche **no generó ni un comentario nuevo**
   en ninguna de las dos redes. El producto salió, la gente no comentó: el movimiento del
   21 nov fue por la publicación del nombre, no por el producto en sí.
@@ -191,21 +188,27 @@ _(reglas generales que Alejo dio al responder los correos)_
   sin moverse de "10 comentarios": siguen llegando likes, no conversación. No confundir
   un cambio de likes con actividad que haya que revisar.
 - 2026-11-24 (10:32): Las coordenadas de la barra de pestañas **cambian incluso dentro
-  del mismo día** (7:23 a. m.: frame 1568x734, pestañas en y=63; 10:25 a. m.: frame
-  1512x738, Facebook en (702,103) e Instagram en (913,103)). Sacarlas siempre del
-  screenshot de esa corrida, nunca de la corrida anterior.
-- 2026-11-24 (19:26): **Lectura barata de la bandeja.** Con el `screenshot` a scale 0.6
-  los conteos y las fechas salen borrosos, pero no hace falta repetirlo a escala 1: dos
-  `zoom` resuelven la red entera — el encabezado del hilo (x 330-1350, y 95-135) para
-  "N Me gusta · N comentarios · fecha", y la columna de la lista (x 50-320, y 140-620)
-  para las diez entradas con su fecha de última actividad. Un MODO COMPLETO sin novedades
-  queda en ~8 llamadas al navegador y cero hilos abiertos.
-- 2026-11-24 (19:26): Cierre del martes. Cinco corridas completas, cero comentarios
-  nuevos en las dos redes, ningún correo. Van **cuatro días seguidos (21–24 nov) sin un
-  solo comentario nuevo** y siete días sin que Alejo conteste los correos: las 9
-  propuestas de sep/oct siguen sin publicar. Ese día se mandó la **primera notificación
-  push** avisando del bloqueo; no repetirla en corridas siguientes.
+  del mismo día**. Sacarlas siempre del screenshot de esa corrida, nunca de la anterior.
+- 2026-11-24 (19:26): **Lectura barata de la bandeja.** El `screenshot` a scale 0.6 basta
+  por sí solo para leer conteos y fechas; si hace falta leer el texto de un comentario,
+  un `zoom` sobre el panel lo resuelve. Un MODO COMPLETO sin novedades queda en ~6
+  llamadas al navegador y cero hilos abiertos.
+- 2026-11-24 (19:26): Cuatro días seguidos (21–24 nov) sin un solo comentario nuevo y
+  siete sin que Alejo conteste los correos. Se mandó la **primera notificación push**
+  avisando del bloqueo de la cola; no repetir esa push en corridas siguientes.
 - 2026-11-24: Nota sobre los SHA de GitHub: `get_file_contents` devuelve **dos** SHA —
   el del commit (en la URI del recurso) y el **blob SHA** del archivo (en la línea
   "successfully downloaded text file (SHA: …)"). `create_or_update_file` solo acepta el
   **blob SHA**; con el del commit responde "SHA mismatch / stale".
+- 2026-11-26 (16:30): **La bandeja de Facebook solo lista publicaciones que ya tienen
+  comentario**, así que una entrada nueva en esa lista es por sí sola señal de comentario
+  nuevo. Así apareció el post de natilla (17 nov), que llevaba nueve días sin figurar.
+  Corolario: en Facebook no basta con mirar que el hilo de siempre no haya cambiado —
+  hay que mirar **cuántas entradas** tiene la lista.
+- 2026-11-26 (16:30): Primer comentario nuevo en nueve días y el primero que entra por
+  **Facebook**: Jackelin Garzón, "Precios donde están ubicados". Pregunta de compra
+  clásica (precio + ubicación) sobre la natilla. **Falta confirmar el precio de la
+  natilla con dos buñuelos**: quedó en `<CONFIRMAR: …>` y pedido en el correo.
+- 2026-11-26 (16:30): En el panel de comentarios de Facebook puede salir un globo
+  **"New! Reply With a Messenger Message"** que tapa el botón Responder. Se cierra con
+  su X antes de intentar publicar nada.
