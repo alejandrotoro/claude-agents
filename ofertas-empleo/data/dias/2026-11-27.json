@@ -1,0 +1,20 @@
+{"fecha":"2026-11-27","enviadas":[],
+"no_verificadas":[
+{"empresa":"1950Labs","titulo":"Sr. Ruby on Rails + React developer","url":"https://careers-page.com/1950labs/job/7XYRRR3X","motivo":"Página sin botón ni formulario de aplicar (solo 'submit your CV'), sin fecha; raíz careers-page carga con JS. Contractor USD, 'work from anywhere', RoR 80% + React 20%. Fit estimado 80."},
+{"empresa":"Arionkoder","titulo":"Senior Ruby Engineer","url":"https://careers-page.com/arionkoder/job/L68XR595","motivo":"Tiene 'Apply for Position', pero sin fecha y no se pudo confirmar en la raíz del tablero (careers-page con JS). 'Work from anywhere', RoR 6+ años + React/Vue. Fit estimado 72."},
+{"empresa":"Parrolabs","titulo":"Senior Ruby on Rails Developer","url":"https://jobs.recooty.com/parrolabs/ruby-on-rails-developer1","motivo":"Recooty sin botón visible ni fecha; raíz jobs.recooty.com/parrolabs no se pudo abrir. Remote Rocketship la lista como 'Colombia – Remote' del 5-nov, etiquetas Mid/Senior. Fit estimado 69."}],
+"cerradas_detectadas":[
+{"empresa":"Bluelight Consulting","titulo":"Ruby on Rails Engineer - Remote, Latin America","url":"https://jobs.lever.co/bluelightconsulting/54b5ca9a-601e-41bd-b46d-566a8e387f81","motivo":"No aparece en la raíz jobs.lever.co/bluelightconsulting (leída completa: ningún rol Ruby/Rails), aunque la página individual sigue con 'apply'."},
+{"empresa":"Bluelight Consulting","titulo":"Ruby Developer - Full-time, Remote","url":"https://jobs.lever.co/bluelightconsulting/bd199084-9fab-4408-8bfc-fd63326ace85","motivo":"No aparece en la raíz del tablero."},
+{"empresa":"Bluelight Consulting","titulo":"Ruby Developer - Full-time, Remote","url":"https://jobs.lever.co/bluelightconsulting/139bc22a-591a-42e5-a7f2-a16ce6e1568d","motivo":"No aparece en la raíz del tablero."},
+{"empresa":"Rootstrap","titulo":"Sr Ruby on Rails Developer","url":"https://builtin.com/job/sr-ruby-rails-developer/7857373","motivo":"Built In: 'this job was removed ... Jan 29, 2026'."},
+{"empresa":"Modyo","titulo":"Senior Ruby Developer","url":"https://www.getonbrd.com/jobs/programming/senior-ruby-developer-modyo-remote","motivo":"Get on Board: 'Closed job' (2021)."}],
+"descartadas_relevantes":[
+{"empresa":"Wizeline","titulo":"Senior Rails & AI-Driven Full-Stack Engineer (Colombia)","motivo":"Presencial en Colombia (JobLeads), salario en COP."},
+{"empresa":"OnTheGoSystems","titulo":"Senior Ruby on Rails Developer","motivo":"Remoto pero en horario EMEA."},
+{"empresa":"Blue Coding","titulo":"Ruby on Rails Developer (VM)","motivo":"No senior (4+ años), stack MSSQL/ColdFusion, sin botón de aplicar visible."},
+{"empresa":"BuildQ","titulo":"Founding Engineer (HN nov-2026)","motivo":"Ubicación ambigua (PT–ET), sin vacantes listadas en su tablero de Techstars; founding engineer de tiempo completo poco compatible con segundo empleo."},
+{"empresa":"FCamara","titulo":"Senior Ruby on Rails Developer","motivo":"Brasil, requiere portugués."},
+{"empresa":"Relevant Healthcare / AREO / Exponent (HN)","titulo":"Rails roles","motivo":"US/Canada only, EU/on-site, híbrido NY."}],
+"fuentes_revisadas":["jobs.lever.co (site:)","job-boards.greenhouse.io (site:)","jobs.ashbyhq.com (site:)","apply.workable.com (site:)","jobs.lever.co/bluelightconsulting (raíz)","jobs.lever.co/bluecoding","careers-page.com (1950labs, arionkoder, idelsoft, darwoft)","jobs.recooty.com/parrolabs","Remote Rocketship","rubyonremote.com","hnhiring.com (Rails nov-2026)","We Work Remotely","Himalayas","jobs.gorails.com","Get on Board","Built In","JobLeads","jobs.workable.com","Jobgether (Lever)","jobs.techstars.com","Wizeline/Endava/Globant (búsqueda)","Scopic (búsqueda)","Dev.Pro (búsqueda)"],
+"fuentes_fallidas":["gogloby.com (client_error)","jobera.com (no muestra la vacante)","jobs.recooty.com/parrolabs raíz (bloqueada)"]}
