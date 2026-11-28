@@ -1,13 +1,13 @@
 {
  "ultimo_id": {
-  "DescuentosHome": 29179,
+  "DescuentosHome": 29195,
   "DescuentosTech": 54883,
-  "CuponesYDescuentosCo": 71433
+  "CuponesYDescuentosCo": 71449
  },
  "ultima_ejecucion": {
-  "fecha": "2026-11-27T14:32:05-05:00",
-  "nuevas": 86,
-  "alertas": 20,
+  "fecha": "2026-11-27T21:47:51-05:00",
+  "nuevas": 16,
+  "alertas": 2,
   "errores": []
  },
  "telegram_chat_id": 14174603
