@@ -212,3 +212,12 @@ _(reglas generales que Alejo dio al responder los correos)_
 - 2026-11-26 (16:30): En el panel de comentarios de Facebook puede salir un globo
   **"New! Reply With a Messenger Message"** que tapa el botón Responder. Se cierra con
   su X antes de intentar publicar nada.
+- 2026-11-28 (13:29): El PASO 1 ya no se busca con `newer_than:7d`: esa ventana empezó a
+  tragarse correos de la cola (el 28 nov a las 11:24 el correo del 21 nov 10:23 ya no
+  salía, o sea que una aprobación sobre un correo viejo se habría perdido en silencio).
+  Se busca **`subject:"Comentarios de dieta"` sin límite de fecha** — probado ese día,
+  devuelve los cuatro hilos sin problema. Si algún día son demasiados, `newer_than:30d`.
+- 2026-11-28 (13:29): Matiz al patrón de Alejo: **la mano cubre Instagram, no Facebook.**
+  El comentario de Jackelin Garzón lleva ~71 horas sin respuesta de la página mientras
+  Instagram se mantiene al día. O sea que un comentario nuevo en Facebook es el que de
+  verdad se queda esperando, y conviene darle prioridad en el correo.
